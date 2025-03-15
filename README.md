@@ -1,11 +1,17 @@
 # 2025年电子信息类夏令营和预推免通知
 2025年电子信息类（电子信息工程、通信工程、集成电路、光电工程等）夏令营和预推免通知
 
+## 西湖大学
+
+【报名截止：5.26】[暑期科研实习](https://mp.weixin.qq.com/s/EsfR6Y8QiyhDrpGaqYMWKA)
+
 ## 香港科技大学
 
 【报名截止：暂无】[工学院](https://mp.weixin.qq.com/s/Yub1OpBQy17EJmjKrQ7BSA)
 
 【报名截止：暂无】[（广州）智能制造博士项目](https://mp.weixin.qq.com/s/mXSzUAgvS27tT1qg8d88Eg)
+
+【报名截止：6.2】[（广州）功能枢纽2026博士项目](https://mp.weixin.qq.com/s/eW_HFsTNYdeFdvf2vV5UFA)
 
 ## 香港中文大学
 
