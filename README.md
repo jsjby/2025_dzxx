@@ -1,6 +1,14 @@
 # 2025年电子信息类夏令营和预推免通知
 2025年电子信息类（电子信息工程、通信工程、集成电路、光电工程等）夏令营和预推免通知
 
+## 清华大学
+
+【报名截止：4.25】[智能与网络化系统研究中心](https://mp.weixin.qq.com/s/CakcW3znlmAixgflFAkYxA)
+
+## 中国科学院
+
+【报名截止：5.16】[空天信息创新研究院](https://mp.weixin.qq.com/s/gPA9DoFlXGLyxR0FYvkSTQ)
+
 ## 西湖大学
 
 【报名截止：5.26】[暑期科研实习](https://mp.weixin.qq.com/s/EsfR6Y8QiyhDrpGaqYMWKA)
