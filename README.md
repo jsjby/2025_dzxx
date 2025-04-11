@@ -11,9 +11,15 @@
 
 【报名截止：6.12 16:00】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1860)
 
+【报名截止：6.6 12:00】[未来技术学院](https://future.pku.edu.cn/xwzk/0e6a3381425845eeaf45be7ac037681b.htm)
+
 ## 中国科学院
 
 【报名截止：5.16】[空天信息创新研究院](https://mp.weixin.qq.com/s/gPA9DoFlXGLyxR0FYvkSTQ)
+
+## 上海人工智能实验室
+
+【报名截止：N/A】[上海人工智能实验室](https://mp.weixin.qq.com/s/3hDyeKK8R5oQm7qbwyyU3A)
 
 ## 西湖大学
 
