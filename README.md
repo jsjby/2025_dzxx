@@ -25,6 +25,10 @@
 
 ## 中国科学院
 
+【报名截止：6.25】[福建物质结构研究所](https://fjirsm.cas.cn/yjsjy/zsxx/202504/t20250417_7602139.html)
+
+【报名截止：6.20】[上海光机所](https://siom.cas.cn/rcjy/zsxx/sszs/202504/t20250417_7603564.html)
+
 【报名截止：5.16】[空天信息创新研究院](https://mp.weixin.qq.com/s/gPA9DoFlXGLyxR0FYvkSTQ)
 
 ## 上海人工智能实验室
