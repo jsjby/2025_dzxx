@@ -9,6 +9,8 @@
 
 ## 北京大学
 
+【报名截止：N/A】[物理学院“物理学、天文学、核科学与技术](https://www.phy.pku.edu.cn/info/1018/10989.htm)
+
 【报名截止：6.20】[信息工程学院](https://www.ece.pku.edu.cn/info/1008/2924.htm)
 
 【报名截止：6.12 16:00】[定量生物学中心](https://mp.weixin.qq.com/s/J9HECH7s3OGkf4s5FXJ3fA)
@@ -48,6 +50,10 @@
 ## 西湖大学
 
 【报名截止：5.26】[暑期科研实习](https://mp.weixin.qq.com/s/EsfR6Y8QiyhDrpGaqYMWKA)
+
+## 南方科技大学
+
+【报名截止：6.16 23:00】[机械与能源工程系](https://mp.weixin.qq.com/s/6tgnc8l5DFsL63xqppK8Ew)
 
 ## 香港科技大学
 
