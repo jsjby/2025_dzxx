@@ -11,6 +11,10 @@
 
 【报名截止：N/A】[物理学院“物理学、天文学、核科学与技术](https://www.phy.pku.edu.cn/info/1018/10989.htm)
 
+【报名截止：N/A】[电子设计自动化研究院](https://mp.weixin.qq.com/s/37ezfmsZnv2AMmV7PEV-vA)
+
+【报名截止：6.26 12:00】[物理学院现代光学研究所](https://mp.weixin.qq.com/s/PLiWaQWCs78A8ym_g4KxhQ)
+
 【报名截止：6.20】[信息工程学院](https://www.ece.pku.edu.cn/info/1008/2924.htm)
 
 【报名截止：6.12 16:00】[定量生物学中心](https://mp.weixin.qq.com/s/J9HECH7s3OGkf4s5FXJ3fA)
@@ -69,4 +73,4 @@
 
 【报名截止：4.30】[（深圳）数据科学学院硕士项目](https://sds.cuhk.edu.cn/article/2110)
 
-【报名截止：4.22】[工程学院](https://hkpfs.erg.cuhk.edu.hk/about-us)
+~~【报名截止：4.22】[工程学院](https://hkpfs.erg.cuhk.edu.hk/about-us)~~
