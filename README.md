@@ -5,7 +5,7 @@
 
 【报名截止：N/A】[深圳国际研究生院郑泉水院士](https://mp.weixin.qq.com/s/x1dJij9cmAeidzhL-SczVQ)
 
-【报名截止：4.25】[智能与网络化系统研究中心](https://mp.weixin.qq.com/s/CakcW3znlmAixgflFAkYxA)
+~~【报名截止：4.25】[智能与网络化系统研究中心](https://mp.weixin.qq.com/s/CakcW3znlmAixgflFAkYxA)~~
 
 ## 北京大学
 
@@ -26,6 +26,10 @@
 ## 上海交通大学
 
 【报名截止：6.22 】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2025-04-25/153326/)
+
+## 西安交通大学
+
+【报名截止：5.20】[“挑战杯-国创赛](https://mp.weixin.qq.com/s/b_caVtIyAV4G1AQ8-tAkQA)
 
 ## 中山大学
 
