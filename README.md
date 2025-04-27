@@ -45,9 +45,13 @@
 
 ## 中国科学院
 
+【报名截止：N/A】[软件所中文信息处理实验室](https://mp.weixin.qq.com/s/Ly5wTU-VpHvzjKOywgJ2AA)
+
 【报名截止：N/A】[上海硅酸盐研究所](https://mp.weixin.qq.com/s/f46H25UE2T5OZcPTx6l3Yw)
 
 【报名截止：6.25】[福建物质结构研究所](https://fjirsm.cas.cn/yjsjy/zsxx/202504/t20250417_7602139.html)
+
+【报名截止：6.20】[上海应用物理研究所](https://www.sinap.cas.cn/yjsjynew/zsjz/sszs_177904/202504/t20250427_7617440.html)
 
 【报名截止：6.20】[上海光机所](https://siom.cas.cn/rcjy/zsxx/sszs/202504/t20250417_7603564.html)
 
