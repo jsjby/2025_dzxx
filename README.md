@@ -7,6 +7,8 @@
 
 【报名截止：N/A】[深圳国际研究生院郑泉水院士](https://mp.weixin.qq.com/s/x1dJij9cmAeidzhL-SczVQ)
 
+【报名截止：6.15】[神经调控国家工程研究中心](https://mp.weixin.qq.com/s/0gL08oY9xNMTZF98aFYkDw)
+
 ~~【报名截止：4.25】[智能与网络化系统研究中心](https://mp.weixin.qq.com/s/CakcW3znlmAixgflFAkYxA)~~
 
 ## 北京大学
@@ -24,6 +26,8 @@
 【报名截止：6.12 16:00】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1860)
 
 【报名截止：6.6 12:00】[未来技术学院](https://future.pku.edu.cn/xwzk/0e6a3381425845eeaf45be7ac037681b.htm)
+
+【报名截止：6.5 8:30】[工学院](https://www.coe.pku.edu.cn/graduate/13490.html)
 
 ## 上海交通大学
 
@@ -51,6 +55,8 @@
 
 【报名截止：N/A】[上海硅酸盐研究所](https://mp.weixin.qq.com/s/f46H25UE2T5OZcPTx6l3Yw)
 
+【报名截止：6.25】[高能物理研究所](https://www.ihep.cas.cn/edu/bks/xly/202504/t20250429_7632800.html)
+
 【报名截止：6.25】[福建物质结构研究所](https://fjirsm.cas.cn/yjsjy/zsxx/202504/t20250417_7602139.html)
 
 【报名截止：6.20】[上海应用物理研究所](https://www.sinap.cas.cn/yjsjynew/zsjz/sszs_177904/202504/t20250427_7617440.html)
@@ -58,6 +64,8 @@
 【报名截止：6.20】[上海光机所](https://siom.cas.cn/rcjy/zsxx/sszs/202504/t20250417_7603564.html)
 
 【报名截止：6.20】[上海技术物理研究所](https://sitp.cas.cn/yjs/zsxx/ssszs/202504/t20250425_7614304.html)
+
+【报名截止：6.20 17:00】[微小卫星创新研究院](https://mp.weixin.qq.com/s/mt6QVeR0n-NtD4GNFSMMJA)
 
 【报名截止：6.15】[深圳先进技术研究院脑认知与脑疾病研究所](https://mp.weixin.qq.com/s/IhZb1ZuwAJp5DlmZs6WJuA)
 
@@ -69,6 +77,8 @@
 
 ## 西湖大学
 
+【报名截止：6.16 10:00】[理学院交叉科学中心](https://science.westlake.edu.cn/newsevents/news/202504/t20250428_55158.shtml)
+
 【报名截止：5.26】[暑期科研实习](https://mp.weixin.qq.com/s/EsfR6Y8QiyhDrpGaqYMWKA)
 
 ## 南方科技大学
@@ -79,6 +89,10 @@
 
 【报名截止：6.16 23:00】[机械与能源工程系](https://mp.weixin.qq.com/s/6tgnc8l5DFsL63xqppK8Ew)
 
+##  北京石墨烯研究院
+
+【报名截止：6.15】[北京石墨烯研究院](https://mp.weixin.qq.com/s/SAunPu0kFXYa_2VHM30UIA)
+
 ## 香港科技大学
 
 【报名截止：暂无】[工学院](https://mp.weixin.qq.com/s/Yub1OpBQy17EJmjKrQ7BSA)
@@ -87,10 +101,12 @@
 
 【报名截止：6.2】[（广州）功能枢纽2026博士项目](https://mp.weixin.qq.com/s/eW_HFsTNYdeFdvf2vV5UFA)
 
+【报名截止：5.26】[（广州）智能制造学域](https://mp.weixin.qq.com/s/6NZabo703m12ztTF9FupVA)
+
 ## 香港中文大学
 
 【报名截止：6.20】[（深圳）数据科学学院硕士项目](https://sds.cuhk.edu.cn/article/2110)
 
-【报名截止：4.30】[（深圳）数据科学学院硕士项目](https://sds.cuhk.edu.cn/article/2110)
+~~【报名截止：4.30】[（深圳）数据科学学院硕士项目](https://sds.cuhk.edu.cn/article/2110)~~
 
 ~~【报名截止：4.22】[工程学院](https://hkpfs.erg.cuhk.edu.hk/about-us)~~
