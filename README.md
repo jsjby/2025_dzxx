@@ -1,6 +1,9 @@
 # 2025年电子信息类夏令营和预推免通知
 2025年电子信息类（电子信息工程、通信工程、集成电路、光电工程等）夏令营和预推免通知
 
+## 关注最新网站，每天更新： https://baoyanxinxi.com
+
+
 ## 清华大学
 
 【报名截止：N/A】[智能产业研究院](https://mp.weixin.qq.com/s/8hYxusP2fwZKr0kbFVOa3A)
