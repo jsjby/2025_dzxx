@@ -46,6 +46,8 @@
 
 ## 上海交通大学
 
+【报名截止：N/A】[电子信息与电气工程学院感知科学与工程学院智能感知与控制研究所 ](https://mp.weixin.qq.com/s/Q5NMXQLpc6vXwQM4neJI-g)
+
 【报名截止：N/A】[人工智能与微结构实验室 ](https://mp.weixin.qq.com/s/oGoMc1WJAaLqChqgiLXitA)
 
 【报名截止：6.22 】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2025-04-25/153326/)
@@ -60,11 +62,13 @@
 
 ## 西安交通大学
 
-【报名截止：5.20】[“挑战杯-国创赛](https://mp.weixin.qq.com/s/b_caVtIyAV4G1AQ8-tAkQA)
+~~【报名截止：5.20】[“挑战杯-国创赛](https://mp.weixin.qq.com/s/b_caVtIyAV4G1AQ8-tAkQA)~~
 
 ## 哈尔滨工业大学
 
 【报名截止：6.30 17:00】[仪器科学与工程学院](https://ise.hit.edu.cn/2025/0509/c16271a369681/page.htm)
+
+【报名截止：：6.7】[（深圳）智能学部](http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1421)
 
 【报名截止：6.7】[哈尔滨工业大学（威海）](https://mp.weixin.qq.com/s/mca57gNQv_7Yx9QuffQQgg?poc_token=HDH4GmijhM1l-_1YFCsieOdDyC2lA_0jRJJkk8lb)
 
@@ -198,11 +202,15 @@
 
 【报名截止：6.13 08:00】[地质与地球物理研究所](https://igg.cas.cn/jyyd/jy_upcoming/202505/t20250507_7643035.html)
 
+【报名截止：6.10】[西安光学精密机械研究所](https://mp.weixin.qq.com/s/51lRjB61Vz1yTPvXVpuwyg)
+
 【报名截止：6.10】[光电技术研究所-第一期](https://yjsb.ioe.ac.cn/zs/sszs/info/2025/51431.html)
 
 【报名截止：6.6】[物理所](https://edu.iphy.ac.cn/moredetail.php?id=50630)
 
-【报名截止：5.19】[计算技术研究所](https://www.ict.ac.cn/xwgg/tzgg/202505/t20250507_7645217.html)
+【报名截止：6.5】[西安光学精密机械研究所-第一期](https://mp.weixin.qq.com/s/F1cF-GDdXrKsmwetsTGERg)
+
+~~【报名截止：5.19】[计算技术研究所](https://www.ict.ac.cn/xwgg/tzgg/202505/t20250507_7645217.html)~~
 
 ~~【报名截止：5.16】[空天信息创新研究院](https://mp.weixin.qq.com/s/gPA9DoFlXGLyxR0FYvkSTQ)~~
 
