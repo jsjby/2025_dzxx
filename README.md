@@ -120,6 +120,8 @@
 
 ## 中山大学
 
+【报名截止：6.15】[网络空间安全学院](https://scst.sysu.edu.cn/news/news02/1419108.htm)
+
 【报名截止：5.30】[大气科学学院行星环境与宜居性研究实验室](https://atmos.sysu.edu.cn/pearl/summerschool2025)
 
 ## 山东大学
@@ -268,11 +270,17 @@
 
 ## 东北师范大学
 
+【报名截止：6.26 17：00】[信息科学与技术学院](https://ist.nenu.edu.cn/info/1157/5991.htm)
+
 【报名截止：6.24 10:00】[物理学院](https://www.phy.nenu.edu.cn/info/1051/5089.htm)
 
 ## 贵州财经大学
 
 【报名截止：6.13】[信息学院](https://xxxy.gufe.edu.cn/info/1049/4159.htm)
+
+## 河南工业大学
+
+【报名截止：6.15】[复杂性科学研究院](https://cs.haut.edu.cn/info/1421/7844.htm)
 
 ## 中国医学科学院 
 
