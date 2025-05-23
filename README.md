@@ -12,13 +12,15 @@
 
 【报名截止：6.18】[电机系未来电力与能源系统](https://mp.weixin.qq.com/s/4ARcNUO022NWHTRCKpL1pA)
 
+【报名截止：6.18 9：00】[材料研究院](https://mp.weixin.qq.com/s/WzDR9i-B9itk4EaRy3kILg)
+
 【报名截止：6.15】[神经调控国家工程研究中心](https://mp.weixin.qq.com/s/0gL08oY9xNMTZF98aFYkDw)
 
 【报名截止：6.9 17：00】[精密仪器系](https://mp.weixin.qq.com/s/I90c35MwUNW0uE8KsLhW3Q)
 
 【报名截止：6.6 17:00】[车辆与运载学院](https://mp.weixin.qq.com/s/8lhVddNzSgnY6U7o5hZEww)
 
-【报名截止：5.22 10:00】[航空发动机研究院](https://mp.weixin.qq.com/s/jC1YPTcfhGwyPqY8AlxM-g)
+~~【报名截止：5.22 10:00】[航空发动机研究院](https://mp.weixin.qq.com/s/jC1YPTcfhGwyPqY8AlxM-g)~~
 
 ~~【报名截止：5.15 11:00】[人工智能学院](https://collegeai.tsinghua.edu.cn/admission/index.php)~~
 
@@ -203,6 +205,8 @@
 【报名截止：6.20 17:00】[微小卫星创新研究院](https://mp.weixin.qq.com/s/mt6QVeR0n-NtD4GNFSMMJA)
 
 【报名截止：6.16】[云南天文台](https://www.ynao.cas.cn/yjsjy/jydt/zs/202505/t20250506_7642070.html)
+
+【报名截止：6.15】[半导体研究所](https://bdt.semi.ac.cn/yanjiusheng/contents/691/4471.html)
 
 【报名截止：6.15】[国家天文台-暑期](https://www.nao.cas.cn/jypy/jy/202505/t20250516_7655042.html)
 
