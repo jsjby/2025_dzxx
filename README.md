@@ -72,6 +72,8 @@
 
 ## 西安交通大学
 
+【报名截止：6.5】[电子科学与工程学院](https://esteie.xjtu.edu.cn/info/1051/2896.htm)
+
 ~~【报名截止：5.20】[“挑战杯-国创赛](https://mp.weixin.qq.com/s/b_caVtIyAV4G1AQ8-tAkQA)~~
 
 ## 哈尔滨工业大学
@@ -105,6 +107,10 @@
 【报名截止：8.20】[福州国际联合学院-导师团](https://fz.tju.edu.cn/info/1029/1944.htm)
 
 【报名截止：8.20】[精密仪器与光电子工程学院-导师团](https://jyxy.tju.edu.cn/cn/new/20250507/2380.shtml)
+
+## 厦门大学
+
+【报名截止：6.15】[信息学院(特色化示范性软件学院）](https://informatics.xmu.edu.cn/info/1050/45710.htm)
 
 ## 同济大学
 
