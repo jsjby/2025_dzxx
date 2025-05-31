@@ -158,9 +158,13 @@
 
 【报名截止：6.21】[理学院](https://science.sysu.edu.cn/article/993)
 
+【报名截止：6.20】[柔性电子学院](https://mp.weixin.qq.com/s/TA9_iyAQwoP5swvOX0Ag2g)
+
 【报名截止：6.15】[网络空间安全学院](https://scst.sysu.edu.cn/news/news02/1419108.htm)
 
 【报名截止：6.15 18:00】[微电子科学与技术学院](https://mst.sysu.edu.cn/article/1229)
+
+【报名截止：6.12】[人工智能学院](https://sai.sysu.edu.cn/article/585)
 
 ~~【报名截止：5.30】[大气科学学院行星环境与宜居性研究实验室](https://atmos.sysu.edu.cn/pearl/summerschool2025)~~
 
@@ -253,6 +257,8 @@
 【报名截止：6.20】[上海微系统与信息技术研究所](https://sim.cas.cn/yjs/zsxx/yjs_sszs/202504/t20250430_7641257.html)
 
 【报名截止：6.20 17:00】[微小卫星创新研究院](https://mp.weixin.qq.com/s/mt6QVeR0n-NtD4GNFSMMJA)
+
+【报名截止：6.18】[大连化物所质谱与快速检测研究中心](https://mp.weixin.qq.com/s/TyRutYauSu9gvogm3S5jiA)
 
 【报名截止：6.16】[云南天文台](https://www.ynao.cas.cn/yjsjy/jydt/zs/202505/t20250506_7642070.html)
 
@@ -348,6 +354,10 @@
 
 【报名截止：6.20 12：00】[中国工程物理研究院](https://zsxx.gscaep.ac.cn/enrollment/detail/1955)
 
+## 中国航天科工集团
+
+【报名截止：7.4 17：00】[第二研究院](https://mp.weixin.qq.com/s/-mmGj4Fsi5En6-3oA79wxg)
+
 ## 广州国家实验室
 
 【报名截止：6.30】[广州国家实验室](https://mp.weixin.qq.com/s/U3kMZUbyyXSNT4UseHJWlA)
@@ -401,6 +411,8 @@
 ~~【报名截止：5.26】[（广州）智能制造学域](https://mp.weixin.qq.com/s/6NZabo703m12ztTF9FupVA)~~
 
 ## 香港中文大学
+
+【报名截止：6.30】[深圳）理工学院](https://mp.weixin.qq.com/s/LEAOQU1TA8WCxyxE5Idftg)
 
 【报名截止：6.25】[理工学院（深圳）](https://mp.weixin.qq.com/s/EWIx0_usoP4pyU2iNexk8Q)
 
