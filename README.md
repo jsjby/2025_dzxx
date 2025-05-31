@@ -10,6 +10,8 @@
 
 【报名截止：N/A】[深圳国际研究生院郑泉水院士](https://mp.weixin.qq.com/s/x1dJij9cmAeidzhL-SczVQ)
 
+【报名截止：6.20 17：00】[SIGS生物医药与健康工程研究院](https://mp.weixin.qq.com/s/Q20dMlGA0CchvO83fBoexg)
+
 【报名截止：6.18】[电机系未来电力与能源系统](https://mp.weixin.qq.com/s/4ARcNUO022NWHTRCKpL1pA)
 
 【报名截止：6.18 9：00】[（深圳）材料研究院](https://mp.weixin.qq.com/s/WzDR9i-B9itk4EaRy3kILg)
@@ -52,6 +54,8 @@
 
 【报名截止：N/A】[人工智能与微结构实验室 ](https://mp.weixin.qq.com/s/oGoMc1WJAaLqChqgiLXitA)
 
+【报名截止：6.29 10：00】[生物医学工程学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
+
 【报名截止：6.22 】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2025-04-25/153326/)
 
 ## 浙江大学
@@ -68,11 +72,17 @@
 
 【报名截止：6.15】[生物系统工程与食品科学学院](http://www.caefs.zju.edu.cn/2025/0508/c68202a3046985/page.htm)
 
+【报名截止：6.14】[航空航天学院](http://saa.zju.edu.cn/2025/0530/c67589a3057159/page.htm)
+
 【报名截止：6.12 17：00】[光电科学与工程学院](http://opt.zju.edu.cn/2025/0529/c72768a3056916/page.htm)
 
 ~~【报名截止：5.10 20:00】[良渚实验室](https://mp.weixin.qq.com/s/32PdZFb-_O7nN4SqpI40Pg)~~
 
 ## 西安交通大学
+
+【报名截止：6.26】[国家储能平台（中心）](https://gjcnpt.xjtu.edu.cn/info/1058/2022.htm)
+
+【报名截止：6.15】[信息与通信工程学院](https://dice.xjtu.edu.cn/info/1009/3237.htm)
 
 【报名截止：6.12】[电信学部微电子学院](https://ele.xjtu.edu.cn/info/1013/2625.htm)
 
@@ -139,6 +149,8 @@
 【报名截止：6.10】[基础与前沿研究院](https://iffs.uestc.edu.cn/info/1049/6292.htm)
 
 ## 中山大学
+
+【报名截止：6.21】[理学院](https://science.sysu.edu.cn/article/993)
 
 【报名截止：6.15】[网络空间安全学院](https://scst.sysu.edu.cn/news/news02/1419108.htm)
 
