@@ -120,6 +120,8 @@
 
 ## 北京师范大学
 
+【报名截止：7.2】[人工智能学院](https://ai.bnu.edu.cn/ggjxz/tzgg/6dc74824e7f64fd888a456db6cade219.htm)
+
 【报名截止：6.15】[教育学部教育技术学院](https://fe.bnu.edu.cn/html/1/news/20250526/n8799.html)
 
 ## 天津大学
