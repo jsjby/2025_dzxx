@@ -56,7 +56,13 @@
 
 【报名截止：6.29 10：00】[生物医学工程学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
+【报名截止：6.25】[国家电投智慧能源创新学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
+
+【报名截止：6.23 17：00】[董浩云智能制造与服务管理研究院（中美物流研究院）](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
+
 【报名截止：6.22 】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2025-04-25/153326/)
+
+【报名截止：6.21】[航空航天学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
 ## 浙江大学
 
@@ -102,7 +108,7 @@
 
 【报名截止：6.7 17:00】[（深圳）集成电路学院](http://ic.hitsz.edu.cn/info/1032/2527.htm)
 
-【报名截止：5.31】[电子与信息工程学院](http://seie.hit.edu.cn/2025/0507/c17148a369613/page.htm)
+~~【报名截止：5.31】[电子与信息工程学院](http://seie.hit.edu.cn/2025/0507/c17148a369613/page.htm)~~
 
 ## 西安交通大学
 
@@ -111,6 +117,8 @@
 【报名截止：6.26】[国家储能平台（中心）](https://gjcnpt.xjtu.edu.cn/info/1058/2022.htm)
 
 【报名截止：6.15】[信息与通信工程学院](https://dice.xjtu.edu.cn/info/1009/3237.htm)
+
+【报名截止：6.15】[仪器科学与技术学院](https://ist.xjtu.edu.cn/info/1015/2244.htm)
 
 【报名截止：6.12】[电信学部微电子学院](https://ele.xjtu.edu.cn/info/1013/2625.htm)
 
@@ -223,6 +231,8 @@
 【报名截止：6.27】[近代物理研究所](https://imp.cas.cn/edu/zsyds/zsdt/zs/202505/t20250512_7650389.html)
 
 【报名截止：6.27】[昆明植物所](http://www.kib.cas.cn/yjsjy/zs/xly/202505/t20250513_7650756.html)
+
+【报名截止：6.25】[深圳先进技术研究院生物医学与健康工程研究所](https://mp.weixin.qq.com/s/Dqw-33ub0MqaSI5cyRYFfA)
 
 【报名截止：6.25】[国家空间科学中心](https://nssc.cas.cn/yjsb/zsxx/xly/202505/t20250530_7794257.html)
 
@@ -386,7 +396,7 @@
 
 ## 怀柔实验室
 
-【报名截止：6.3 17:00】[能源科技与前沿技术](https://mp.weixin.qq.com/s/wCHaQkxTCo_CQU_diLw60Q)
+~~【报名截止：6.3 17:00】[能源科技与前沿技术](https://mp.weixin.qq.com/s/wCHaQkxTCo_CQU_diLw60Q)~~
 
 ## 鹏城国家实验室
 
@@ -408,7 +418,7 @@
 
 【报名截止：6.12】[（广州）智能交通学域](https://mp.weixin.qq.com/s/yUW91BkAUbSpD6ZF7h2e0g)
 
-【报名截止：6.2】[（广州）功能枢纽2026博士项目](https://mp.weixin.qq.com/s/eW_HFsTNYdeFdvf2vV5UFA)
+~~【报名截止：6.2】[（广州）功能枢纽2026博士项目](https://mp.weixin.qq.com/s/eW_HFsTNYdeFdvf2vV5UFA)~~
 
 ~~【报名截止：5.26】[（广州）智能制造学域](https://mp.weixin.qq.com/s/6NZabo703m12ztTF9FupVA)~~
 
