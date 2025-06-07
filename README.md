@@ -16,6 +16,8 @@
 
 【报名截止：6.18 9：00】[（深圳）材料研究院](https://mp.weixin.qq.com/s/WzDR9i-B9itk4EaRy3kILg)
 
+【报名截止：6.15】[电子工程系微波与天线研究所](https://www.ee.tsinghua.edu.cn/info/1078/4801.htm)
+
 【报名截止：6.15】[神经调控国家工程研究中心](https://mp.weixin.qq.com/s/0gL08oY9xNMTZF98aFYkDw)
 
 【报名截止：6.10】[电子工程系](https://www.ee.tsinghua.edu.cn/info/1078/4791.htm)
@@ -108,25 +110,25 @@
 
 【报名截止：6.30 17:00】[仪器科学与工程学院](https://ise.hit.edu.cn/2025/0509/c16271a369681/page.htm)
 
-【报名截止：：6.7】[（深圳）智能学部](http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1421)
+~~【报名截止：：6.7】[（深圳）智能学部](http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1421)~~
 
-【报名截止：6.7】[哈尔滨工业大学（威海）](https://mp.weixin.qq.com/s/mca57gNQv_7Yx9QuffQQgg?poc_token=HDH4GmijhM1l-_1YFCsieOdDyC2lA_0jRJJkk8lb)
+~~【报名截止：6.7】[哈尔滨工业大学（威海）](https://mp.weixin.qq.com/s/mca57gNQv_7Yx9QuffQQgg?poc_token=HDH4GmijhM1l-_1YFCsieOdDyC2lA_0jRJJkk8lb)~~
 
-【报名截止：6.7】[能源科学与工程学院](https://power.hit.edu.cn/2025/0515/c5714a369993/page.htm)
+~~【报名截止：6.7】[能源科学与工程学院](https://power.hit.edu.cn/2025/0515/c5714a369993/page.htm)~~
 
-【报名截止：6.7】[计算学部](https://cs.hit.edu.cn/2025/0507/c11271a369599/pagem.htm)
+~~【报名截止：6.7】[计算学部](https://cs.hit.edu.cn/2025/0507/c11271a369599/pagem.htm)~~
 
-【报名截止：6.7】[航天学院](https://sa.hit.edu.cn/2025/0508/c6582a369658/page.htm)
+~~【报名截止：6.7】[航天学院](https://sa.hit.edu.cn/2025/0508/c6582a369658/page.htm)~~
 
-【报名截止：6.7】[电气工程及自动化学院](https://hitee.hit.edu.cn/2025/0510/c17101a369720/page.htm)
+~~【报名截止：6.7】[电气工程及自动化学院](https://hitee.hit.edu.cn/2025/0510/c17101a369720/page.htm)~~
 
-【报名截止：6.7 17:00】[（深圳）理学院](http://ssc.hitsz.edu.cn/info/1051/2771.htm)
+~~【报名截止：6.7 17:00】[（深圳）理学院](http://ssc.hitsz.edu.cn/info/1051/2771.htm)~~
 
-【报名截止：6.7 17:00】[（深圳）空天科技学院](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2841)
+~~【报名截止：6.7 17:00】[（深圳）空天科技学院](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2841)~~
 
-【报名截止：6.7 17:00】[（深圳）信息科学与技术学院](http://cist.hitsz.edu.cn/info/1038/2039.htm)
+~~【报名截止：6.7 17:00】[（深圳）信息科学与技术学院](http://cist.hitsz.edu.cn/info/1038/2039.htm)~~
 
-【报名截止：6.7 17:00】[（深圳）集成电路学院](http://ic.hitsz.edu.cn/info/1032/2527.htm)
+~~【报名截止：6.7 17:00】[（深圳）集成电路学院](http://ic.hitsz.edu.cn/info/1032/2527.htm)~~
 
 ~~【报名截止：5.31】[电子与信息工程学院](http://seie.hit.edu.cn/2025/0507/c17148a369613/page.htm)~~
 
@@ -149,6 +151,10 @@
 ~~【报名截止：6.5】[电子科学与工程学院](https://esteie.xjtu.edu.cn/info/1051/2896.htm)~~
 
 ~~【报名截止：5.20】[“挑战杯-国创赛](https://mp.weixin.qq.com/s/b_caVtIyAV4G1AQ8-tAkQA)~~
+
+## 北京航空航天大学
+
+【报名截止：6.15 12：00】[宇航学院](http://www.sa.buaa.edu.cn/info/1051/11332.htm)
 
 ## 北京师范大学
 
@@ -180,9 +186,9 @@
 
 【报名截止：6.13 12:00】[电子与信息工程学院](https://see.tongji.edu.cn/info/1173/13908.htm)
 
-【报名截止：6.6 12：00】[计算机科学与技术学院](https://cs.tongji.edu.cn/info/1022/3675.htm)
+~~【报名截止：6.6 12：00】[计算机科学与技术学院](https://cs.tongji.edu.cn/info/1022/3675.htm)~~
 
-【报名截止：6.6 11:00】[国家卓越工程师学院](https://yz.tongji.edu.cn/info/1010/3921.htm)
+~~【报名截止：6.6 11:00】[国家卓越工程师学院](https://yz.tongji.edu.cn/info/1010/3921.htm)~~
 
 ~~【报名截止：6.5 12:00】[机械与能源工程学院](https://mefaculty.tongji.edu.cn/info/1023/5101.htm)~~
 
@@ -211,6 +217,8 @@
 ## 华中科技大学
 
 【报名截止：6.22】[物理科学与技术学院](https://phy.ccnu.edu.cn/info/1055/11858.htm)
+
+【报名截止：6.17 23：00】[生命科学与技术学院](https://life.hust.edu.cn/info/1855/11657.htm)
 
 ## 华东师范大学
 
@@ -280,6 +288,8 @@
 
 【报名截止：6.27】[昆明植物所](http://www.kib.cas.cn/yjsjy/zs/xly/202505/t20250513_7650756.html)
 
+【报名截止：6.26】[信息工程研究所](https://mp.weixin.qq.com/s/DCO0ZoN8AYKKxmc8r9yklg)
+
 【报名截止：6.25】[深圳先进技术研究院-先进材料科学与工程研究所](https://amse.siat.ac.cn/siat/2025-06/03/article_2025060317452145526.html)
 
 【报名截止：6.25】[深圳先进技术研究院生物医学与健康工程研究所](https://mp.weixin.qq.com/s/Dqw-33ub0MqaSI5cyRYFfA)
@@ -340,7 +350,7 @@
 
 【报名截止：6.10】[光电技术研究所-第一期](https://yjsb.ioe.ac.cn/zs/sszs/info/2025/51431.html)
 
-【报名截止：6.6】[物理所](https://edu.iphy.ac.cn/moredetail.php?id=50630)
+~~【报名截止：6.6】[物理所](https://edu.iphy.ac.cn/moredetail.php?id=50630)~~
 
 ~~【报名截止：6.5】[西安光学精密机械研究所-第一期](https://mp.weixin.qq.com/s/F1cF-GDdXrKsmwetsTGERg)~~
 
@@ -427,6 +437,10 @@
 【报名截止：6.28】[高等研究院](https://mp.weixin.qq.com/s/wt271utioHNjteWkajrzJA)
 
 【报名截止：6.25】[物理与光电工程学院](https://mp.weixin.qq.com/s/my1xuKN_P7dZ94GcQhbjqQ)
+
+## 三峡大学
+
+【报名截止：6.23】[电气与新能源学院](https://newee.ctgu.edu.cn/info/1073/28132.htm)
 
 ## 中国医学科学院 
 
