@@ -6,6 +6,8 @@
 
 ## 清华大学
 
+> 【报名截止：7.28 12：00】[清华大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)
+
 【报名截止：N/A】[智能产业研究院](https://mp.weixin.qq.com/s/8hYxusP2fwZKr0kbFVOa3A)
 
 【报名截止：N/A】[深圳国际研究生院郑泉水院士](https://mp.weixin.qq.com/s/x1dJij9cmAeidzhL-SczVQ)
@@ -215,6 +217,8 @@
 ~~【报名截止：5.30】[大气科学学院行星环境与宜居性研究实验室](https://atmos.sysu.edu.cn/pearl/summerschool2025)~~
 
 ## 华中科技大学
+
+【报名截止：6.23 17：00】[光学与电子信息学院](https://mp.weixin.qq.com/s/Q9WsoqsWKLkeu-xD3Id-aA)
 
 【报名截止：6.22】[物理科学与技术学院](https://phy.ccnu.edu.cn/info/1055/11858.htm)
 
