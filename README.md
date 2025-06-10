@@ -86,6 +86,12 @@
 
 【报名截止：6.21】[航空航天学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
+## 复旦大学
+
+【报名截止：6.25 17：00】[人类表型组研究院](https://hupi.fudan.edu.cn/info/1064/4456.htm)
+
+【报名截止：6.25 17：00】[智能材料与未来能源创新学院](https://icome.fudan.edu.cn/3c/ce/c49262a736462/page.htm)
+
 ## 浙江大学
 
 【报名截止：7.2】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/3061)
@@ -136,6 +142,8 @@
 
 ## 西安交通大学
 
+【报名截止：7.13】[未来技术学院](https://wljsxy.xjtu.edu.cn/info/1019/2771.htm)
+
 【报名截止：6.30】[新闻与新媒体学院-“跨越·融合·创新”学科交叉](https://xmtxy.xjtu.edu.cn/info/1054/10641.htm)
 
 【报名截止：6.30 10：00】[前沿科学技术研究院](https://fist.xjtu.edu.cn/info/1009/4433.htm)
@@ -143,6 +151,8 @@
 【报名截止：6.30 10：00】[前沿科学技术学科交叉中心](https://fist.xjtu.edu.cn/info/1013/4434.htm)
 
 【报名截止：6.26】[国家储能平台（中心）](https://gjcnpt.xjtu.edu.cn/info/1058/2022.htm)
+
+【报名截止：6.16 18：00】[电气工程学院](https://ee.xjtu.edu.cn/info/1383/14116.htm)
 
 【报名截止：6.15】[信息与通信工程学院](https://dice.xjtu.edu.cn/info/1009/3237.htm)
 
