@@ -68,11 +68,11 @@
 
 【报名截止：7.3】[集成电路学院(信息与电子工程学院)-更改时间](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
+【报名截止：7.3 9：00】[自动化与感知学院-更换时间](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
+
 【报名截止：6.29 10：00】[生物医学工程学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
 【报名截止：6.25】[电气工程学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
-
-【报名截止：6.25】[自动化与感知学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
 【报名截止：6.25】[计算机学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
@@ -88,11 +88,17 @@
 
 ## 复旦大学
 
+【报名截止：6.25 17：00】[光电研究院](https://ioe.fudan.edu.cn/40/c8/c25104a737480/page.htm)
+
 【报名截止：6.25 17：00】[人类表型组研究院](https://hupi.fudan.edu.cn/info/1064/4456.htm)
+
+【报名截止：6.25 17：00】[生物医学工程与技术创新学院](https://bme-college.fudan.edu.cn/41/52/c49155a737618/page.htm)
 
 【报名截止：6.25 17：00】[智能材料与未来能源创新学院](https://icome.fudan.edu.cn/3c/ce/c49262a736462/page.htm)
 
 【报名截止：6.22 17：00】[脑科学转化研究院](https://itbr.fudan.edu.cn/info/1095/14841.htm)
+
+【报名截止：6.22 17：00】[智能复杂体系基础理论与关键技术实验室](https://mp.weixin.qq.com/s/7zFGUqdYMLK69m_KKy14Cw)
 
 【报名截止：6.20 17：00】[物理学系](https://phys.fudan.edu.cn/40/2e/c7522a737326/page.htm)
 
@@ -168,6 +174,10 @@
 
 ~~【报名截止：5.20】[“挑战杯-国创赛](https://mp.weixin.qq.com/s/b_caVtIyAV4G1AQ8-tAkQA)~~
 
+## 中国人民大学
+
+> 【报名截止：7.20 17：00】[中国人民大学招生信息](https://pgs.ruc.edu.cn/info/1062/3447.htm)
+
 ## 北京航空航天大学
 
 【报名截止：6.15 12：00】[宇航学院](http://www.sa.buaa.edu.cn/info/1051/11332.htm)
@@ -175,6 +185,8 @@
 ## 北京师范大学
 
 【报名截止：7.2】[人工智能学院](https://ai.bnu.edu.cn/ggjxz/tzgg/6dc74824e7f64fd888a456db6cade219.htm)
+
+【报名截止：6.23】[理科学学部-心理学（含认知神经科学）](https://psych.bnu.edu.cn/xwzx/tzgg/7ee7e1268fa84b719576053d714e53be.htm)
 
 【报名截止：6.23】[理科学学部](https://geo.bnu.edu.cn/tzgg/eb89cfbb29cc414da5a6aa9a21515d5f.html)
 
@@ -194,6 +206,8 @@
 
 ## 同济大学
 
+【报名截止：6.23 12：00】[中意工程创新学院](https://see.tongji.edu.cn/info/1147/14001.htm)
+
 【报名截止：6.16 17:00】[汽车学院](https://auto.tongji.edu.cn/info/1013/11134.htm)
 
 【报名截止：6.15 22：00】[城市交通研究院](https://umi.tongji.edu.cn/info/1070/2117.htm)
@@ -212,7 +226,11 @@
 
 ## 电子科技大学
 
-【报名截止：6.10】[基础与前沿研究院](https://iffs.uestc.edu.cn/info/1049/6292.htm)
+> [电子科技大学夏令营招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)
+
+【报名截止：7.6】[自动化工程学院](https://www.auto.uestc.edu.cn/info/1045/7563.htm)
+
+~~【报名截止：6.10】[基础与前沿研究院](https://iffs.uestc.edu.cn/info/1049/6292.htm)~~
 
 ## 中山大学
 
@@ -249,6 +267,10 @@
 ## 华东师范大学
 
 【报名截止：6.17】[通信与电子工程学院（集成电路科学与工程学院）](http://www.cee.ecnu.edu.cn/ae/1d/c4170a699933/page.htm)
+
+## 四川大学
+
+【报名截止：6.22 22：00】[电子信息学院 ](https://eie.scu.edu.cn/info/1025/13848.htm)
 
 ## 吉林大学
 
@@ -460,6 +482,8 @@
 
 ## 湖南科技大学
 
+【报名截止：6.23】[物理与电子科学学院](https://wlxy.hnust.edu.cn/sylm/tzgg/002933d5f2544ebc80de3032d2974a17.htm)
+
 【报名截止：6.23】[信息与电气工程学院](https://xinxi.hnust.edu.cn/tzgg/6747c3b95a3841019ea7e56c12e12081.htm)
 
 【报名截止：6.23】[机电工程学院](https://jd.hnust.edu.cn/tzgg/8928165fe04e419aa61b0f004c4b6b39.htm)
@@ -493,6 +517,10 @@
 ## 三峡大学
 
 【报名截止：6.23】[电气与新能源学院](https://newee.ctgu.edu.cn/info/1073/28132.htm)
+
+## 长江大学
+
+【报名截止：7.1】[电子信息与电气工程学院](https://dxxy.yangtzeu.edu.cn/info/1055/4805.htm)
 
 ## 中国医学科学院 
 
