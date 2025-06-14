@@ -44,6 +44,8 @@
 
 【报名截止：6.26 17:00】[新材料学院](https://mp.weixin.qq.com/s/k7J5hdVxYEgVpsHsp7IHOg)
 
+【报名截止：6.24】[医学部医学技术研究院](https://imt.bjmu.edu.cn/zszp/zsxx/bcd01cd161e4407aada729a1e6aacf98.htm)
+
 【报名截止：6.20】[信息工程学院](https://www.ece.pku.edu.cn/info/1008/2924.htm)
 
 【报名截止：6.18 8：00】[电子学院](https://ele.pku.edu.cn/info/1063/3698.htm)
@@ -52,9 +54,9 @@
 
 【报名截止：6.16 16：00】[软件与微电子学院](https://www.ss.pku.edu.cn/admission/admnotice/4680.html)
 
-【报名截止：6.12 16:00】[定量生物学中心](https://mp.weixin.qq.com/s/J9HECH7s3OGkf4s5FXJ3fA)
+~~【报名截止：6.12 16:00】[定量生物学中心](https://mp.weixin.qq.com/s/J9HECH7s3OGkf4s5FXJ3fA)~~
 
-【报名截止：6.12 16:00】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1860)
+~~【报名截止：6.12 16:00】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1860)~~
 
 ~~【报名截止：6.6 12:00】[未来技术学院](https://future.pku.edu.cn/xwzk/0e6a3381425845eeaf45be7ac037681b.htm)~~
 
@@ -65,6 +67,10 @@
 【报名截止：N/A】[电子信息与电气工程学院感知科学与工程学院智能感知与控制研究所 ](https://mp.weixin.qq.com/s/Q5NMXQLpc6vXwQM4neJI-g)
 
 【报名截止：N/A】[人工智能与微结构实验室 ](https://mp.weixin.qq.com/s/oGoMc1WJAaLqChqgiLXitA)
+
+【报名截止：7.6 17：00】[溥渊未来技术学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
+
+【报名截止：7.4】[人工智能学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
 【报名截止：7.3】[集成电路学院(信息与电子工程学院)-更改时间](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
@@ -87,6 +93,12 @@
 【报名截止：6.21】[航空航天学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
 ## 复旦大学
+
+【报名截止：6.28 17：00】[智能医学研究院](https://imi.fudan.edu.cn/info/1033/2423.htm)
+
+【报名截止：6.25 17：00】[空间互联网研究院](https://mp.weixin.qq.com/s/LglGhntzwfP1F67pu_ZiCw)
+
+【报名截止：6.25 17：00】[智能机器人与先进制造创新学院](https://ciram.fudan.edu.cn/41/72/c48843a737650/page.htm)
 
 【报名截止：6.25 17：00】[光电研究院](https://ioe.fudan.edu.cn/40/c8/c25104a737480/page.htm)
 
@@ -120,7 +132,7 @@
 
 【报名截止：6.14】[航空航天学院](http://saa.zju.edu.cn/2025/0530/c67589a3057159/page.htm)
 
-【报名截止：6.12 17：00】[光电科学与工程学院](http://opt.zju.edu.cn/2025/0529/c72768a3056916/page.htm)
+~~【报名截止：6.12 17：00】[光电科学与工程学院](http://opt.zju.edu.cn/2025/0529/c72768a3056916/page.htm)~~
 
 ~~【报名截止：5.10 20:00】[良渚实验室](https://mp.weixin.qq.com/s/32PdZFb-_O7nN4SqpI40Pg)~~
 
@@ -168,7 +180,7 @@
 
 【报名截止：6.15】[仪器科学与技术学院](https://ist.xjtu.edu.cn/info/1015/2244.htm)
 
-【报名截止：6.12】[电信学部微电子学院](https://ele.xjtu.edu.cn/info/1013/2625.htm)
+~~【报名截止：6.12】[电信学部微电子学院](https://ele.xjtu.edu.cn/info/1013/2625.htm)~~
 
 ~~【报名截止：6.5】[电子科学与工程学院](https://esteie.xjtu.edu.cn/info/1051/2896.htm)~~
 
@@ -200,6 +212,8 @@
 
 ## 厦门大学
 
+【报名截止：6.24 17：30】[电子科学与技术学院](https://ese.xmu.edu.cn/info/1018/28821.htm)
+
 【报名截止：6.15】[信息学院(特色化示范性软件学院）](https://informatics.xmu.edu.cn/info/1050/45710.htm)
 
 【报名截止：6.15】[厦门市智能存储与计算重点实验室](https://mp.weixin.qq.com/s/x-HNL4JQXan8lkOwPWYojQ)
@@ -216,7 +230,7 @@
 
 【报名截止：6.15 12:00】[测绘与地理信息学院](https://celiang.tongji.edu.cn/info/1205/4404.htm)
 
-【报名截止：6.13 12:00】[电子与信息工程学院](https://see.tongji.edu.cn/info/1173/13908.htm)
+~~【报名截止：6.13 12:00】[电子与信息工程学院](https://see.tongji.edu.cn/info/1173/13908.htm)~~
 
 ~~【报名截止：6.6 12：00】[计算机科学与技术学院](https://cs.tongji.edu.cn/info/1022/3675.htm)~~
 
@@ -230,9 +244,13 @@
 
 【报名截止：7.6】[自动化工程学院](https://www.auto.uestc.edu.cn/info/1045/7563.htm)
 
+【报名截止：7.5 16：00】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1049/6513.htm)
+
 ~~【报名截止：6.10】[基础与前沿研究院](https://iffs.uestc.edu.cn/info/1049/6292.htm)~~
 
 ## 中山大学
+
+【报名截止：7.10】[智能工程学院](https://ise.sysu.edu.cn/article/1522)
 
 【报名截止：6.22】[海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1231)
 
@@ -250,7 +268,7 @@
 
 【报名截止：6.15 18:00】[微电子科学与技术学院](https://mst.sysu.edu.cn/article/1229)
 
-【报名截止：6.12】[人工智能学院](https://sai.sysu.edu.cn/article/585)
+~~【报名截止：6.12】[人工智能学院](https://sai.sysu.edu.cn/article/585)~~
 
 ~~【报名截止：5.30】[大气科学学院行星环境与宜居性研究实验室](https://atmos.sysu.edu.cn/pearl/summerschool2025)~~
 
@@ -274,7 +292,15 @@
 
 ## 吉林大学
 
+【报名截止：6.23】[电子科学与工程学院](https://ee.jlu.edu.cn/info/1038/9043.htm)
+
+【报名截止：6.23】[通信工程学院](https://dce.jlu.edu.cn/info/1032/11004.htm)
+
+【报名截止：6.20 12：00】[人工智能学院](https://sai.jlu.edu.cn/info/1033/5106.htm)
+
 【报名截止：6.20 11：00】[软件学院](https://csw.jlu.edu.cn/info/1156/7879.htm)
+
+【报名截止：6.20 9：00】[汽车工程学院](https://auto.jlu.edu.cn/info/1256/8121.htm)
 
 ## 山东大学
 
@@ -300,7 +326,7 @@
 
 【报名截止：6.15】[杭高院智能科学与技术学院 ](http://hias.ucas.ac.cn/znkxyjs/info/1095/1821.htm)
 
-【报名截止：6.13 17：00】[前沿交叉科学学院](https://mp.weixin.qq.com/s/VYEE2l9HfV0NZ3CfVvxbPQ)
+~~【报名截止：6.13 17：00】[前沿交叉科学学院](https://mp.weixin.qq.com/s/VYEE2l9HfV0NZ3CfVvxbPQ)~~
 
 ~~【报名截止：6.10】[华大专项](https://mp.weixin.qq.com/s/N1DJtkwwODEiosdbBKIPKg)~~
 
@@ -406,7 +432,7 @@
 
 【报名截止：6.15】[国家纳米科学中心](https://mp.weixin.qq.com/s/D8Rn0hcDkihNU0INpOTabw)
 
-【报名截止：6.13 08:00】[地质与地球物理研究所](https://igg.cas.cn/jyyd/jy_upcoming/202505/t20250507_7643035.html)
+~~【报名截止：6.13 08:00】[地质与地球物理研究所](https://igg.cas.cn/jyyd/jy_upcoming/202505/t20250507_7643035.html)~~
 
 ~~【报名截止：6.10】[西安光学精密机械研究所](https://mp.weixin.qq.com/s/51lRjB61Vz1yTPvXVpuwyg)~~
 
@@ -502,7 +528,7 @@
 
 ## 贵州财经大学
 
-【报名截止：6.13】[信息学院](https://xxxy.gufe.edu.cn/info/1049/4159.htm)
+~~【报名截止：6.13】[信息学院](https://xxxy.gufe.edu.cn/info/1049/4159.htm)~~
 
 ## 河南工业大学
 
@@ -526,6 +552,18 @@
 
 【报名截止：6.22】[北京协和医学院生物医学工程研究所](https://mp.weixin.qq.com/s/OcBvD3N82jw_f7EGRgjBGw)
 
+## 中国船舶科学研究中心
+
+【报名截止：6.23】[深海技术科学太湖实验室](https://mp.weixin.qq.com/s/VToGpyRCXNWH5P7MjnxtuA)
+
+## 中国原子能科学研究院核物理研究所
+
+【报名截止：6.27】[核物理研究所](https://mp.weixin.qq.com/s/bVqz3m8n3XCC47iHZJW-XA)
+
+## 中国石油勘探开发研究院
+
+【报名截止：7.5】[中国石油勘探开发研究院](http://riped.cnpc.com.cn/yjs/szsxx/202506/d9894f408e9a4aa5b60549effdb5beb7.shtml)
+
 ##  中国工程物理研究院
 
 【报名截止：6.20 12：00】[中国工程物理研究院](https://zsxx.gscaep.ac.cn/enrollment/detail/1955)
@@ -540,7 +578,7 @@
 
 ## 北京脑科学与类脑研究所
 
-【报名截止：6.12 12:00】[北京脑科学与类脑研究所](https://mp.weixin.qq.com/s/EsfR6Y8QiyhDrpGaqYMWKA)
+~~【报名截止：6.12 12:00】[北京脑科学与类脑研究所](https://mp.weixin.qq.com/s/EsfR6Y8QiyhDrpGaqYMWKA)~~
 
 ## 北京量子信息科学研究院
 
@@ -580,7 +618,7 @@
 
 【报名截止：暂无】[（广州）智能制造博士项目](https://mp.weixin.qq.com/s/mXSzUAgvS27tT1qg8d88Eg)
 
-【报名截止：6.12】[（广州）智能交通学域](https://mp.weixin.qq.com/s/yUW91BkAUbSpD6ZF7h2e0g)
+~~【报名截止：6.12】[（广州）智能交通学域](https://mp.weixin.qq.com/s/yUW91BkAUbSpD6ZF7h2e0g)~~
 
 ~~【报名截止：6.2】[（广州）功能枢纽2026博士项目](https://mp.weixin.qq.com/s/eW_HFsTNYdeFdvf2vV5UFA)~~
 
