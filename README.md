@@ -221,6 +221,8 @@
 
 ## 哈尔滨工业大学
 
+> [哈尔滨工业大学招生信息](https://yzb.hit.edu.cn/2025/0628/c8822a372823/pagem.htm)
+
 【报名截止：7.13】[郑州研究院院](https://zri.hit.edu.cn/2025/0620/c13996a372501/page.htm)
 
 【报名截止：7.6】[产教融合人才培养基地（重庆）](http://cri.hit.edu.cn/2025/0625/c15728a372715/pagem.htm)
@@ -287,6 +289,8 @@
 
 ## 北京航空航天大学
 
+【报名截止：7.7】[无人系统研究院](https://wrj.buaa.edu.cn/info/1008/2609.htm)
+
 【报名截止：7.4】[大科学装置研究院](https://piqs.buaa.edu.cn/info/1038/2512.htm)
 
 ~~【报名截止：6.26 12：00】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1117&wbnewsid=11912)~~
@@ -306,6 +310,8 @@
 ~~【报名截止：6.15】[教育学部教育技术学院](https://fe.bnu.edu.cn/html/1/news/20250526/n8799.html)~~
 
 ## 天津大学
+
+> [天津大学招生信息](https://yzb.tju.edu.cn/xwzx/tkss_xw/202506/t20250627_324320.htm)
 
 【报名截止：8.20】[福州国际联合学院-导师团](https://fz.tju.edu.cn/info/1029/1944.htm)
 
@@ -385,6 +391,12 @@
 
  ## 西北工业大学
 
+ 【报名截止：7.6 21：00】[柔性电子研究院](https://ife.nwpu.edu.cn/info/1175/13945.htm)
+
+ 【报名截止：7.6 21：00】[航空学院](https://hangkong.nwpu.edu.cn/info/1357/45434.htm)
+
+ 【报名截止：7.6 21：00】[电子信息学院](https://dianzi.nwpu.edu.cn/info/1507/37431.htm)
+
 【报名截止：7.6 21：00】[无人系统技术研究院](https://wurenxitong.nwpu.edu.cn/info/1108/9778.htm)
 
 【报名截止：7.6 21：00】[机电学院](https://jidian.nwpu.edu.cn/info/1017/13139.htm)
@@ -408,6 +420,8 @@
 【报名截止：7.5 16：00】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1049/6513.htm)
 
 【报名截止：7.5 12：00】[电子科学与工程学院](https://www.ese.uestc.edu.cn/info/5085/22275.htm)
+
+【报名截止：7.4】[物理学院](https://mp.weixin.qq.com/s/edKFS2rW2_zeOi37tUS5Zw)
 
 【报名截止：7.4】[通信抗干扰全国重点实验室](https://www.ncl.uestc.edu.cn/info/1083/3527.htm)
 
@@ -465,6 +479,8 @@
 
 ## 华东师范大学
 
+> [华东师范大学招生信息](https://mp.weixin.qq.com/s/3pqoLLU6PzuIedjVncBN0w)
+
 【报名截止：7.8】[电子信息类别（人工智能领域）](https://yjsy.ecnu.edu.cn/bc/d4/c42082a703700/page.htm)
 
 【报名截止：7.4】[精密光谱科学与技术国家重点实验室](https://mp.weixin.qq.com/s/WMognGatQlsEB0_edH46jw)
@@ -497,6 +513,8 @@
 
 ## 吉林大学
 
+【报名截止：7.6 16：00】[仪器科学与电气工程学院](https://ciee.jlu.edu.cn/info/1082/15019.htm)
+
 【报名截止：6.30】[建设工程学院](https://const.jlu.edu.cn/info/1065/8062.htm)
 
 ~~【报名截止：6.26 9：00】[交通学院](https://jt.jlu.edu.cn/info/1066/6624.htm)~~
@@ -514,6 +532,8 @@
 ~~【报名截止：6.20 9：00】[汽车工程学院](https://auto.jlu.edu.cn/info/1256/8121.htm)~~
 
 ## 山东大学
+
+【报名截止：7.7】[计算机科学与技术学院/人工智能学院](https://www.cs.sdu.edu.cn/info/1068/6585.htm)
 
 【报名截止：7.4 17：00】[齐鲁交通学院 ](https://www.qltrans.sdu.edu.cn/info/1112/5175.htm)
 
@@ -856,6 +876,8 @@
 ## 西南交通大学
 
 【报名截止：N/A】[计算机学院](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=2a4a0ac8-75aa-4848-a278-d9c846295ade)
+
+【报名截止：7.4】[信息科学与技术学院](https://mp.weixin.qq.com/s/qQRNGS_ZJ6HXBFMfJzUHKA)
 
 ~~【报名截止：6.27】[电气工程学院](https://dqxy.swjtu.edu.cn/info/2966/227899.htm)~~
 
