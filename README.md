@@ -239,11 +239,21 @@
 
 【报名截止：N/A】[（威海）海洋工程学院-审核时间9月上旬和中旬](https://snaoe.hitwh.edu.cn/2025/0707/c86a202086/page.htm)
 
-【报名截止：N/A】[（威海）汽车工程学院-审核时间第一批：第一批：2025年7月15日-第二批：第二批：2025年9月7日-第三批：2025年9月21日](https://auto.hitwh.edu.cn/2025/0707/c189a202087/page.htm)
+【报名截止：N/A】[（威海）信息科学与工程学院-审核时间第一批：2025年7月8日-第二批：2025年9月10日-第三批：2025年9月20日](https://siee.hitwh.edu.cn/2025/0707/c1677a202085/page.htm)
+
+【报名截止：N/A】[（威海）汽车工程学院-审核时间第一批：第一批：2025年7月15日-第二批：2025年9月7日-第三批：2025年9月21日](https://auto.hitwh.edu.cn/2025/0707/c189a202087/page.htm)
 
 【报名截止：N/A】[（威海）计算机科学与技术学院](https://cst.hitwh.edu.cn/2025/0704/c371a202032/page.htm)
 
 【报名截止：9.16】[电信学院](https://seie.hit.edu.cn/2025/0702/c17148a373031/page.htm)
+
+【报名截止：9.10】[航天学院-控制科学与工程学科](https://sa.hit.edu.cn/2025/0708/c6582a373311/page.htm)
+
+【报名截止：9.10】[航天学院-集成电路科学与工程学科](https://sa.hit.edu.cn/2025/0708/c6582a373317/page.htm)
+
+【报名截止：9.10】[航天学院-航空宇航科学与技术学科](https://sa.hit.edu.cn/2025/0708/c6582a373313/page.htm)
+
+【报名截止：9.10】[航天学院-光学工程学科](https://sa.hit.edu.cn/2025/0708/c6582a373316/page.htm)
 
 【报名截止：9.5 18：00】[交通科学与工程学院](https://jtxy.hit.edu.cn/2025/0703/c6085a373120/page.htm)
 
@@ -341,6 +351,12 @@
 
 ~~【报名截止：6.15】[教育学部教育技术学院](https://fe.bnu.edu.cn/html/1/news/20250526/n8799.html)~~
 
+## 北京理工大学
+
+【报名截止：7.16 12：00】[先进结构技术研究院](https://xjjg.bit.edu.cn/xwzx/tzgg/8b4529f21dfc43168106d800c2bf79e7.htm)
+
+【报名截止：7.11】[光电学院](https://opt.bit.edu.cn/tzgg2/tzgg/3308d10a6bda4c84b937d0ed43cf7d6d.htm)
+
 ## 天津大学
 
 > [天津大学招生信息](https://yzb.tju.edu.cn/xwzx/tkss_xw/202506/t20250627_324320.htm)|【报名截止：9.10】[天津大学招生信息](https://yzb.tju.edu.cn/xwzx/zxxx/202506/t20250630_324321.htm)
@@ -356,6 +372,10 @@
 ~~【报名截止：6.25 17：00】[北京中关村学院-AI专项（人工智能与交叉学科领域）直博生](https://yzb.tju.edu.cn/xwzx/zxxx/202506/t20250616_324298.htm)~~
 
 ## 南开大学
+
+【报名截止：9.12】[计算机学院、密码与网络空间安全学院 ](https://cc.nankai.edu.cn/2025/0708/c13297a575022/page.htm)
+
+【报名截止：8.31】[物理科学学院](https://physics.nankai.edu.cn/2025/0708/c548a575024/page.htm)
 
 ~~【报名截止：6.25 12：00】[人工智能学院](https://ai.nankai.edu.cn/info/1024/6242.htm)~~
 
@@ -413,6 +433,8 @@
 
 【报名截止：8.11 12：00】[电子科学与工程学院](https://electronic.seu.edu.cn/2025/0630/c11484a534664/page.htm)
 
+【报名截止：8.10 20：00】[统计与数据科学学院](https://stat.seu.edu.cn/2025/0708/c60842a535073/page.htm)
+
 【报名截止：8.8 12：00】[机械工程学院](https://me.seu.edu.cn/2025/0703/c1549a534881/page.htm)
 
 【报名截止：8.2 12：00】[信息科学与工程学院](https://radio.seu.edu.cn/2025/0701/c19195a534740/page.htm)
@@ -458,6 +480,8 @@
 【报名截止：7.31】[计算机科学与技术学院](https://cse.csu.edu.cn/info/1040/10563.htm)
 
 【报名截止：7.25】[电子信息学院](https://ei.csu.edu.cn/info/1085/1924.htm)
+
+【报名截止：7.17】[国家卓越工程师学院](https://ngce.csu.edu.cn/info/1015/1366.htm)
 
 【报名截止：7.12】[计算机学院](https://cse.csu.edu.cn/info/1040/10578.htm)
 
@@ -689,9 +713,19 @@
 
 > [大连理工大学招生信息](https://gs.dlut.edu.cn/info/1173/16926.htm)
 
+【报名截止：7.14 12：00】[光仪学院](https://oeis.dlut.edu.cn/info/1045/6074.htm)
+
 【报名截止：7.12 16：00】[集成电路学院](http://ic.dlut.edu.cn/info/1034/9237.htm)
 
 【报名截止：7.11 9：00】[计算机科学与技术学院](https://cs.dlut.edu.cn/info/1256/5159.htm)
+
+## 中国农业大学
+
+>【报名截止：8.10 18:00】 [中国农业大学招生信息](https://yz.cau.edu.cn/art/2025/7/7/art_41740_1074970.html)
+
+## 中国农业大学
+
+【报名截止：8.10 18:00】[信息与电气工程学院](https://ciee.cau.edu.cn/art/2025/7/8/art_50390_1075048.html)
 
 ## 中国科学院大学
 
@@ -871,6 +905,10 @@
 
 ~~【报名截止：7.6】[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/info/1050/4215.htm)~~
 
+## 西安电子科技大学
+
+> [西安电子科技大学招生信息](https://gr.xidian.edu.cn/info/1074/16714.htm)
+
 ## 北京交通大学
 
 > [北京交通大学招生信息](https://yzb.bjtu.edu.cn/tzgg/cf698483c20948348ac9af8ea1131cc7.htm)
@@ -942,6 +980,10 @@
 ~~【报名截止：6.25】[航空学院实验室](https://aero.nuaa.edu.cn/2025/0619/c4293a378550/page.htm)~~
 
 ~~【报名截止：6.22 20：00】[电子信息工程学院](https://ceie.nuaa.edu.cn/2025/0613/c11527a377777/page.htm)~~
+
+## 南京邮电大学
+
+【报名截止：7.17 17:00】[通信与信息工程学院](https://scie.njupt.edu.cn/2025/0707/c2890a287070/page.htm)
 
 ## 苏州大学
 
@@ -1176,6 +1218,16 @@
 ## 天津工业大学
 
 【报名截止：7.8 12：00】[物理科学与技术学院](https://wlkx.tiangong.edu.cn/2025/0705/c5078a106963/page.htm)
+
+## 哈尔滨工程大学
+
+【报名截止：7.21 12:00】[水声工程学院](https://mp.weixin.qq.com/s/4C-DrS4afcTUp2abEq_Asg)
+
+【报名截止：7.6】[物理与光电工程学院](https://mp.weixin.qq.com/s/x9KK8VYmWqc5bBfZ67WhUQ)
+
+## 西安建筑科技大学
+
+【报名截止：7.11】[机电工程学院](https://jdxy.xauat.edu.cn/info/1030/13216.htm)
 
 ## 首都体育学院
 
