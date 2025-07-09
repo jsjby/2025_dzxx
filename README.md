@@ -245,7 +245,13 @@
 
 【报名截止：N/A】[（威海）计算机科学与技术学院](https://cst.hitwh.edu.cn/2025/0704/c371a202032/page.htm)
 
+【报名截止：N/A】[重庆研究院](https://cri.hit.edu.cn/2025/0707/c15728a373260/page.htm)
+
 【报名截止：9.16】[电信学院](https://seie.hit.edu.cn/2025/0702/c17148a373031/page.htm)
+
+【报名截止：9.10】[生命科学和医学学部](https://life.hit.edu.cn/2025/0709/c6157a373357/page.htm)
+
+【报名截止：9.10】[环境学院](https://env.hit.edu.cn/2025/0709/c8344a373328/page.htm)
 
 【报名截止：9.10】[航天学院-控制科学与工程学科](https://sa.hit.edu.cn/2025/0708/c6582a373311/page.htm)
 
@@ -254,6 +260,8 @@
 【报名截止：9.10】[航天学院-航空宇航科学与技术学科](https://sa.hit.edu.cn/2025/0708/c6582a373313/page.htm)
 
 【报名截止：9.10】[航天学院-光学工程学科](https://sa.hit.edu.cn/2025/0708/c6582a373316/page.htm)
+
+【报名截止：9.5】[（威海）理学院光电系](https://ss.hitwh.edu.cn/2025/0708/c593a202153/page.htm)
 
 【报名截止：9.5 18：00】[交通科学与工程学院](https://jtxy.hit.edu.cn/2025/0703/c6085a373120/page.htm)
 
@@ -456,6 +464,8 @@
  ## 国防科技大学
 
 > [国防科技大学招生信息](http://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14495)|[国防科技大学招生人数](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14513)
+
+【报名截止：7.15】[电子科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14528)
 
 【报名截止：7.14】[电子对抗学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14514)
 
@@ -661,6 +671,8 @@
 
 ## 重庆大学
 
+【报名截止：9.15 17：00】[微电子与通信工程学院](https://mp.weixin.qq.com/s/gFsUIX1R1Pr6QgRqtt720g)
+
 【报名截止：7.10】[自动化学院](https://mp.weixin.qq.com/s/UojfbSiT3nSGirXJb-BE_Q)
 
 【报名截止：7.9 12：00】[光电工程学院](https://coe.cqu.edu.cn/info/1151/7370.htm)
@@ -713,7 +725,11 @@
 
 > [大连理工大学招生信息](https://gs.dlut.edu.cn/info/1173/16926.htm)
 
+【报名截止：7.20 12：00】[电气工程学院](https://ee.dlut.edu.cn/info/1153/13903.htm)
+
 【报名截止：7.14 12：00】[光仪学院](https://oeis.dlut.edu.cn/info/1045/6074.htm)
+
+【报名截止：7.12】[医学部](https://med.dlut.edu.cn/info/1003/8597.htm)
 
 【报名截止：7.12 16：00】[集成电路学院](http://ic.dlut.edu.cn/info/1034/9237.htm)
 
