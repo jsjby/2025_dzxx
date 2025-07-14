@@ -303,7 +303,7 @@
 
 ## 西安交通大学
 
-【报名截止：7.13】[未来技术学院](https://wljsxy.xjtu.edu.cn/info/1019/2771.htm)
+【报名截止：7.20】[未来技术学院-延迟时间](https://wljsxy.xjtu.edu.cn/info/1019/2771.htm)
 
 ~~【报名截止：6.30】[新闻与新媒体学院-“跨越·融合·创新”学科交叉](https://xmtxy.xjtu.edu.cn/info/1054/10641.htm)~~
 
@@ -395,6 +395,8 @@
 
 【报名截止：8.31】[物理科学学院](https://physics.nankai.edu.cn/2025/0708/c548a575024/page.htm)
 
+【报名截止：8.15】[电子信息与光学工程学院](https://ceo.nankai.edu.cn/info/1099/4393.htm)
+
 ~~【报名截止：6.25 12：00】[人工智能学院](https://ai.nankai.edu.cn/info/1024/6242.htm)~~
 
 ## 武汉大学
@@ -477,6 +479,8 @@
 
 > [国防科技大学招生信息](http://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14495)|[国防科技大学招生人数](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14513)
 
+【报名截止：7.16】[电子对抗学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14541)
+
 【报名截止：7.15】[电子科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14528)
 
 【报名截止：7.15】[前沿交叉学科学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14529)
@@ -552,6 +556,8 @@
 ## 电子科技大学
 
 > [电子科技大学夏令营招生信息](https://yz.uestc.edu.cn/info/1081/5527.htm)
+
+【报名截止：8.31】[资源与环境学院](https://www.sre.uestc.edu.cn/info/1063/10023.htm)
 
 【报名截止：8.31】[信息与通信工程学科](https://www.sice.uestc.edu.cn/info/1142/15429.htm)
 
@@ -943,7 +949,11 @@
 
 【报名截止：N/A】[光电工程学院](https://soe.xidian.edu.cn/info/1095/14405.htm)
 
+【报名截止：9.25】[网络与信息安全学院](https://ce.xidian.edu.cn/info/1324/14383.htm)
+
 【报名截止：9.19】[电子工程学院](https://see.xidian.edu.cn/html/news/12493.html)
+
+【报名截止：9.15】[集成电路学部](https://sme.xidian.edu.cn/m/view.php?aid=3121)
 
 ## 北京交通大学
 
@@ -1019,6 +1029,8 @@
 
 ## 南京邮电大学
 
+【报名截止：7.19 17：00】[物联网学院](https://ciot.njupt.edu.cn/2025/0712/c10653a287235/page.htm)
+
 【报名截止：7.17 17:00】[通信与信息工程学院](https://scie.njupt.edu.cn/2025/0707/c2890a287070/page.htm)
 
 ## 南京理工大学
@@ -1042,6 +1054,8 @@
 ~~【报名截止：6.25】[信息科学与工程学院](https://cise.ecust.edu.cn/2025/0618/c7692a179923/page.htm)~~
 
 ## 华北电力大学
+
+【报名截止：7.15 12：00】[控制与计算机工程学院](https://cce.ncepu.edu.cn/tztg1/c00a33d488684101b1f553a37c4b2e50.htm)
 
 ~~【报名截止：7.10】[电气与电子工程学院](https://electric.ncepu.edu.cn/zsgz/bsyjszs/9eb346296f2343afa9cbca098b121bb7.htm)~~
 
