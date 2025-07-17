@@ -251,6 +251,8 @@
 
 【报名截止：9.16】[电信学院](https://seie.hit.edu.cn/2025/0702/c17148a373031/page.htm)
 
+【报名截止：9.10】[能源科学与工程学院](https://power.hit.edu.cn/2025/0717/c5714a373681/page.htm)
+
 【报名截止：9.10】[物理学院](https://physics.hit.edu.cn/2025/0711/c12332a373453/page.htm)
 
 【报名截止：9.10】[生命科学和医学学部](https://life.hit.edu.cn/2025/0709/c6157a373357/page.htm)
@@ -266,6 +268,8 @@
 【报名截止：9.10】[航天学院-光学工程学科](https://sa.hit.edu.cn/2025/0708/c6582a373316/page.htm)
 
 【报名截止：9.5】[（威海）理学院光电系](https://ss.hitwh.edu.cn/2025/0708/c593a202153/page.htm)
+
+【报名截止：9.5】[（深圳）集成电路学院](http://ic.hitsz.edu.cn/info/1032/2556.htm)
 
 【报名截止：9.5 18：00】[交通科学与工程学院](https://jtxy.hit.edu.cn/2025/0703/c6085a373120/page.htm)
 
@@ -424,6 +428,8 @@
 ## 厦门大学
 
 【报名截止：N/A】[人工智能研究院-八月底九月初](https://iai.xmu.edu.cn/info/1120/5335.htm)
+
+【报名截止：9.5 17：30】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11420.htm)
 
 【报名截止：8.30】[柔性电子（未来技术）研究院](https://ife.xmu.edu.cn/info/1341/5962.htm)
 
@@ -704,6 +710,8 @@
 ~~【报名截止：6.20 9：00】[汽车工程学院](https://auto.jlu.edu.cn/info/1256/8121.htm)~~
 
 ## 重庆大学
+
+> 【报名截止：9.30 18：00】[重庆大学招生信息](https://yz.cqu.edu.cn/news/2025-07/2357.html)
 
 【报名截止：9.15 17：00】[微电子与通信工程学院](https://mp.weixin.qq.com/s/gFsUIX1R1Pr6QgRqtt720g)
 
@@ -1056,6 +1064,8 @@
 ## 南京理工大学
 
 > [南京理工大学招生信息](https://mp.weixin.qq.com/s/87gTsR0HS4FITJXd3fmHng)|[南京理工大学活动安排](https://gs.njust.edu.cn/zsw/61/84/c4587a352644/page.htm)
+
+【报名截止：7.30】[自动化学院](https://mp.weixin.qq.com/s/b_zNNZTeip-jJsIapzK8jA)
 
 【报名截止：7.25】[电子工程与光电技术学院](https://mp.weixin.qq.com/s/jY_jTDszsuPBlJcqzCAkQw)
 
