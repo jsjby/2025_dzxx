@@ -1153,6 +1153,18 @@
 
 ~~【报名截止：7.9】[电磁能技术全国重点实验室](https://mp.weixin.qq.com/s/3mdABbog0Hm6GWpyMXKyJA)~~
 
+## 中国人民解放军航天工程大学
+
+【报名截止：7.30】[航天工程大学](https://mp.weixin.qq.com/s/QutGrQwGT1A1va7FE6zT2Q?search_click_id=16517756066242798855-1752897824273-6362747106)
+
+## 中国人民解放军空军预警学院
+
+【报名截止：7.30】[空军预警学院](https://mp.weixin.qq.com/s/guRKIHQbkkBpFDgvPNd5Sw)
+
+## 中国人民解放军火箭军工程大学
+
+【报名截止：7.30 12：00】[火箭军工程大学](https://mp.weixin.qq.com/s/DV6mu92s0TY4p2chYlpnyA)
+
 ## 中国矿业大学
 
 ~~【报名截止：6.6】[材料与物理学院](https://smsp.cumt.edu.cn/66/41/c18894a681537/page.htm)~~
@@ -1160,6 +1172,10 @@
 ## 中央民族大学
 
 > [中央民族大学招生信息](https://mp.weixin.qq.com/s/DldnCpL4O-Jt4KfbZOr8eA)
+
+【报名截止：9.1 17：00】[信息工程学院](https://mp.weixin.qq.com/s/e3r4FkQYbLzzwfWYPcWt_w)
+
+【报名截止：8.10】[理学院](https://mp.weixin.qq.com/s/L2aWIRI2zVq308Fu5n0J1w)
 
 ## 中国地质大学
 
