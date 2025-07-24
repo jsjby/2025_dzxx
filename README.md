@@ -501,7 +501,7 @@
 
  【报名截止：7.31 12：00】[集成电路学院](https://ic.seu.edu.cn/2025/0626/c47777a534478/page.htm)
 
- 【报名截止：7.24 12：00】[土木工程学院](https://civil.seu.edu.cn/2025/0627/c20024a534565/page.htm)
+~~【报名截止：7.24 12：00】[土木工程学院](https://civil.seu.edu.cn/2025/0627/c20024a534565/page.htm)~~
 
  ## 国防科技大学
 
@@ -675,6 +675,8 @@
 
 > [华东师范大学招生信息](https://mp.weixin.qq.com/s/3pqoLLU6PzuIedjVncBN0w)
 
+【报名截止：报名时间8月下旬】[数据科学与工程学院-](https://dase.ecnu.edu.cn/da/bc/c41465a711356/page.htm)
+
 ~~【报名截止：7.8】[电子信息类别（人工智能领域）](https://yjsy.ecnu.edu.cn/bc/d4/c42082a703700/page.htm)~~
 
 ~~【报名截止：7.4】[精密光谱科学与技术国家重点实验室](https://mp.weixin.qq.com/s/WMognGatQlsEB0_edH46jw)~~
@@ -785,7 +787,7 @@
 
 > [大连理工大学招生信息](https://gs.dlut.edu.cn/info/1173/16926.htm)|[大连理工大学预推免招生信息](https://gs.dlut.edu.cn/info/1173/16986.htm)
 
-【报名截止：7.20 12：00】[电气工程学院](https://ee.dlut.edu.cn/info/1153/13903.htm)
+~~【报名截止：7.20 12：00】[电气工程学院](https://ee.dlut.edu.cn/info/1153/13903.htm)~~
 
 ~~【报名截止：7.15】[信息与通信工程学院](https://ice.dlut.edu.cn/info/1208/5876.htm)~~
 
@@ -1099,9 +1101,9 @@
 
 【报名截止：7.25】[电子工程与光电技术学院](https://mp.weixin.qq.com/s/jY_jTDszsuPBlJcqzCAkQw)
 
-【报名截止：7.24】[微电子学院（集成电路学院）](https://mp.weixin.qq.com/s/sQD5p5uAcbXiqDz1xvlTmA)
+~~【报名截止：7.24】[微电子学院（集成电路学院）](https://mp.weixin.qq.com/s/sQD5p5uAcbXiqDz1xvlTmA)~~
 
-【报名截止：7.23 22：00】[数学与统计学院](https://mp.weixin.qq.com/s/tXjU_HrA47Cg9fdSxJnEgw)
+~~【报名截止：7.23 22：00】[数学与统计学院](https://mp.weixin.qq.com/s/tXjU_HrA47Cg9fdSxJnEgw)~~
 
 ~~【报名截止：7.17】[网络空间安全学院](https://mp.weixin.qq.com/s/qpSP5_z1tOPGYw_vi9uP0g)~~
 
@@ -1360,6 +1362,10 @@
 ## 长江大学
 
 ~~【报名截止：7.1】[电子信息与电气工程学院](https://dxxy.yangtzeu.edu.cn/info/1055/4805.htm)~~
+
+## 武汉体育学院
+
+【报名截止：7.30】[新闻传播学院](https://mp.weixin.qq.com/s/fF8YkF2hG6WrSJV4JqtX4Q)
 
 ## 山东农业大学
 
