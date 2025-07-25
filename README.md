@@ -753,6 +753,10 @@
 
 ~~【报名截止：7.3】[信息科学与工程学院](http://www.ise.neu.edu.cn/2025/0630/c157a288658/page.htm)~~
 
+## 湖南大学
+
+> [湖南大学招生信息-7月25日开始报名](https://gra.hnu.edu.cn/info/1075/10189.htmtm)
+
 ## 山东大学
 
 ~~【报名截止：7.7】[计算机科学与技术学院/人工智能学院](https://www.cs.sdu.edu.cn/info/1068/6585.htm)~~
@@ -1013,6 +1017,10 @@
 
 【报名截止：9.19】[电子工程学院](https://see.xidian.edu.cn/html/news/12493.html)
 
+【报名截止：9.19 12：00】[广研院-卓越工程师学院粤港澳大湾区基地](https://gzyjy.xidian.edu.cn/info/1009/19512.htm)
+
+【报名截止：9.19 12：00】[杭研院-卓越工程师学院长三角基地](https://hz.xidian.edu.cn/info/1009/20144.htm)
+
 【报名截止：9.15】[集成电路学部](https://sme.xidian.edu.cn/m/view.php?aid=3121)
 
 ## 北京交通大学
@@ -1029,7 +1037,7 @@
 
 ## 北京科技大学
 
-> [北京科技大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)
+> [北京科技大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)|[北京科技大学推免招生信息](https://yzxc.ustb.edu.cn/xlytm/hdap/8da9fa228a654def926a2326b86ca899.htm)
 
 ~~【报名截止：7.9 12：00】[前沿交叉科学技术研究院、未来技术学院、未来芯片创新中心](https://qy.ustb.edu.cn/tzgg/61ef823517a94c1fb7491f05c1d1080f.htm)~~
 
@@ -1058,6 +1066,10 @@
 ~~【报名截止：5.26】[暑期科研实习](https://mp.weixin.qq.com/s/EsfR6Y8QiyhDrpGaqYMWKA)~~
 
 ## 南方科技大学
+
+【报名截止：8.31】[计算机科学与工程系](https://cse.sustech.edu.cn/cn/news/view/id/1111)
+
+【报名截止：8.24】[电子与电气工程系](https://eee.sustech.edu.cn/news_detail.aspx?id=2144&cid=91)
 
 ~~【报名截止：6.18】[生物医学工程系](https://mp.weixin.qq.com/s/ZENQ4XITj3XDnmb5Y4FiDA)~~
 
