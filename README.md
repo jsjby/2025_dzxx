@@ -427,6 +427,8 @@
 
 ## 武汉大学
 
+【报名截止：N/A】[机器人学院](https://mp.weixin.qq.com/s/47-48A2FNH0cNRLT7dvXvA)
+
 ~~【报名截止：7.7 12：00】[测绘遥感信息工程全国重点实验室](https://liesmars.whu.edu.cn/info/1058/65729.htm)~~
 
 ~~【报名截止：7.5】[物理科学与技术学院](https://physics.whu.edu.cn/info/1236/67131.htm)~~
@@ -545,9 +547,9 @@
 
 【报名截止：7.31】[计算机科学与技术学院](https://cse.csu.edu.cn/info/1040/10563.htm)
 
-【报名截止：7.27】[自动化学院](https://soa.csu.edu.cn/info/1032/9007.htm)
+~~【报名截止：7.27】[自动化学院](https://soa.csu.edu.cn/info/1032/9007.htm)~~
 
-【报名截止：7.25】[电子信息学院](https://ei.csu.edu.cn/info/1085/1924.htm)
+~~【报名截止：7.25】[电子信息学院](https://ei.csu.edu.cn/info/1085/1924.htm)~~
 
 ~~【报名截止：7.17】[国家卓越工程师学院](https://ngce.csu.edu.cn/info/1015/1366.htm)~~
 
@@ -1113,6 +1115,8 @@
 
 ## 南京邮电大学
 
+> [南京邮电大学招生信息](https://yzb.njupt.edu.cn/2025/0725/c7797a287494/page.htm)
+
 【报名截止：7.30】[计算机学院、软件学院、网络空间安全学院](https://cs.njupt.edu.cn/2025/0623/c16083a286255/page.htm)
 
 ~~【报名截止：7.19 17：00】[物联网学院](https://ciot.njupt.edu.cn/2025/0712/c10653a287235/page.htm)~~
@@ -1204,6 +1208,10 @@
 ## 中国人民解放军空军预警学院
 
 【报名截止：7.30】[空军预警学院](https://mp.weixin.qq.com/s/guRKIHQbkkBpFDgvPNd5Sw)
+
+## 中国人民解放军空军工程大学
+
+【报名截止：7.30 18：00】[空军工程大学](https://mp.weixin.qq.com/s/nh9hrXqMRUTjzifjhexq7g)
 
 ## 中国人民解放军火箭军工程大学
 
