@@ -183,9 +183,15 @@
 
 【报名截止：9.10】[控制科学与工程学院](http://www.cse.zju.edu.cn/2025/0728/c39336a3071760/page.htm)
 
+【报名截止：9.10】[集成电路学院](https://ic.zju.edu.cn/2024/0813/c54013a3072078/page.htm)
+
 【报名截止：9.10 12：00】[工程师学院](https://pi.zju.edu.cn/2025/0727/c67820a3071730/page.htm)
 
+【报名截止：9.9 17：00】[海洋学院](http://oc.zju.edu.cn/2025/0728/c52420a3071991/page.htm)
+
 【报名截止：9.8】[航空航天学院](http://saa.zju.edu.cn/2025/0728/c67589a3071830/page.htm)
+
+【报名截止：9.8 12：00】[计算机科学与技术学院](http://www.cs.zju.edu.cn/csen/2025/0728/c27006a3071976/page.htm)
 
 【报名截止：9.7】[光电学院](http://opt.zju.edu.cn/2025/0728/c72768a3071870/page.htm)
 
@@ -839,6 +845,8 @@
 
 【报名截止：8.10 17:00】[工学院](https://coe.cau.edu.cn/art/2025/7/22/art_39155_1076491.html)
 
+【报名截止：8.10 17:00】[信息与电气工程学院](https://ciee.cau.edu.cn/art/2025/7/29/art_50390_1077424.html)
+
 ## 中国海洋大学
 
 > 【报名截止：9.14】[中国海洋大学招生信息](https://yz.ouc.edu.cn/2025/0718/c31626a503423/page.htm)
@@ -1094,6 +1102,8 @@
 ## 南方科技大学
 
 【报名截止：8.31】[计算机科学与工程系](https://cse.sustech.edu.cn/cn/news/view/id/1111)
+
+【报名截止：8.28】[机械与能源工程系](https://mp.weixin.qq.com/s/NIDx-ZbQ-hTIogSZorAK_w)
 
 【报名截止：8.24】[电子与电气工程系](https://eee.sustech.edu.cn/news_detail.aspx?id=2144&cid=91)
 
