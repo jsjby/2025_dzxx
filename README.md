@@ -185,9 +185,15 @@
 
 【报名截止：9.10】[集成电路学院](https://ic.zju.edu.cn/2024/0813/c54013a3072078/page.htm)
 
+【报名截止：9.10 17：00】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/3104)
+
+【报名截止：9.10 12：00】[台州研究院](https://mp.weixin.qq.com/s/5MOfvP8urYMG1FkX6GR-qg)
+
 【报名截止：9.10 12：00】[工程师学院](https://pi.zju.edu.cn/2025/0727/c67820a3071730/page.htm)
 
 【报名截止：9.9 17：00】[海洋学院](http://oc.zju.edu.cn/2025/0728/c52420a3071991/page.htm)
+
+【报名截止：9.9 12：00】[软件学院](http://www.cst.zju.edu.cn/2025/0730/c32178a3072203/page.htm)
 
 【报名截止：9.8】[航空航天学院](http://saa.zju.edu.cn/2025/0728/c67589a3071830/page.htm)
 
@@ -1048,6 +1054,8 @@
 【报名截止：9.24】[人工智能学院](https://sai.xidian.edu.cn/info/1106/12942.htm)
 
 【报名截止：9.20 00：00】[生命科学技术学院](https://life.xidian.edu.cn/info/1048/16091.htm)
+
+【报名截止：9.19】[空间科学与技术学院](https://see.xidian.edu.cn/html/news/12493.html)
 
 【报名截止：9.19】[电子工程学院](https://see.xidian.edu.cn/html/news/12493.html)
 
