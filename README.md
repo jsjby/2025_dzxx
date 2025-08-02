@@ -529,7 +529,7 @@
 
 【报名截止：8.6 12：00】[蒙纳士大学苏州联合研究生院-电气工程学院](https://smjgs.seu.edu.cn/2025/0704/c8471a534961/page.htm)
 
-【报名截止：8.2 12：00】[信息科学与工程学院](https://radio.seu.edu.cn/2025/0701/c19195a534740/page.htm)
+~~【报名截止：8.2 12：00】[信息科学与工程学院](https://radio.seu.edu.cn/2025/0701/c19195a534740/page.htm)~~
 
 ~~【报名截止：7.31 12：00】[生物科学与医学工程学院](https://bme.seu.edu.cn/2025/0630/c480a534639/page.htm)~~
 
@@ -670,6 +670,8 @@
 ## 中山大学
 
 【报名截止：8.10】[海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1241)
+
+【报名截止：8.8】[智能工程学院](https://ise.sysu.edu.cn/article/1544)
 
 【报名截止：8.6】[微电子科学与技术学院](https://mst.sysu.edu.cn/article/1246)
 
@@ -1105,6 +1107,8 @@
 
 【报名截止：9.20】[生医工学院](https://bme.shanghaitech.edu.cn/2025/0731/c8181a1113650/page.htm)
 
+【报名截止：9.19】[创意与艺术学院](https://mp.weixin.qq.com/s/Tr3w2ZOzhuVQMmocuaN6sg?search_click_id=2396021997672812027-1754114183321-3100943485)
+
 【报名截止：9.18】[信息学院](https://sist.shanghaitech.edu.cn/2025/0731/c7339a1113671/page.htm)
 
 ~~【报名截止：6.30】[生物医学工程学院](https://bme.shanghaitech.edu.cn/2025/0508/c8181a1110760/page.htm)~~
@@ -1114,6 +1118,8 @@
 ~~【报名截止：6.22】[信息科学与技术学院-电子信息专业学位](https://mp.weixin.qq.com/s/idu5S_HBoL1daw5JxlPubg)~~
 
 ## 西湖大学
+
+> [西湖大学招生信息](https://www.westlake.edu.cn/news_events/westlakenews/zsdt/202508/t20250801_57102.shtml)
 
 ~~【报名截止：6.26 10:00】[工学院](https://engineering.westlake.edu.cn/NewsEvents/LatestNews/202504/t20250430_55211.shtml)~~
 
@@ -1129,6 +1135,8 @@
 
 【报名截止：8.24】[电子与电气工程系](https://eee.sustech.edu.cn/news_detail.aspx?id=2144&cid=91)
 
+【报名截止：8.20 17：30】[自动化与智能制造学院](https://sdim.sustech.edu.cn/index/show?id=490)
+
 ~~【报名截止：6.18】[生物医学工程系](https://mp.weixin.qq.com/s/ZENQ4XITj3XDnmb5Y4FiDA)~~
 
 ~~【报名截止：6.16 23:00】[机械与能源工程系](https://mp.weixin.qq.com/s/6tgnc8l5DFsL63xqppK8Ew)~~
@@ -1141,7 +1149,7 @@
 
 ## 南京航空航天大学
 
-> [南京航空航天大学招生信息](http://www.graduate.nuaa.edu.cn/2025/0617/c2145a378429/page.htm)
+> [南京航空航天大学招生信息](http://www.graduate.nuaa.edu.cn/2025/0617/c2145a378429/page.htm)|> 【报名截止：9.19】[南京航空航天大学招生信息](http://www.graduate.nuaa.edu.cn/2025/0802/c13502a380731/page.htm)
 
 【报名截止：9.1】[航空学院系所](https://aero.nuaa.edu.cn/2025/0705/c4293a379634/page.htm)
 
@@ -1288,6 +1296,12 @@
 ~~【报名截止：6.20】[（武汉）机械与电子信息学院](https://jidian.cug.edu.cn/info/1124/8342.htm)~~
 
 ~~【报名截止：6.20】[（武汉）地理与信息工程学院](https://xgxy.cug.edu.cn/info/1013/32730.htm)~~
+
+## 中国石油大学
+
+> [中国石油大学(北京）招生信息](https://grs.cup.edu.cn/zssstzgg/91256.jhtml)
+
+【报名截止：9.3】[（北京）人工智能学院](https://www.cup.edu.cn/cupai/tzgg/d89506d4c98e47b087eba297909d2212.htm)
 
 ## 中国药科大学
 
