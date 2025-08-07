@@ -137,6 +137,8 @@
 
 ## 南京大学
 
+> 【报名截止：9.15】[南京大学招生信息](https://yzb.nju.edu.cn/cb/be/c47863a773054/page.htm)
+
 【报名截止：N/A】[电子科学与工程学院](https://ese.nju.edu.cn/d9/36/c22673a776502/page.htm)
 
 【报名截止：8.31】[哲学学院](https://philo.nju.edu.cn/df/58/c4691a778072/page.htm)
