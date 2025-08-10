@@ -301,6 +301,8 @@
 
 【报名截止：9.16】[(深圳)信息科学与技术学院（分三批）](http://cist.hitsz.edu.cn/info/1038/2167.htm)
 
+【报名截止：9.10】[（深圳）智能学部](http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1521)
+
 【报名截止：9.10】[能源科学与工程学院](https://power.hit.edu.cn/2025/0717/c5714a373681/page.htm)
 
 【报名截止：9.10】[物理学院](https://physics.hit.edu.cn/2025/0711/c12332a373453/page.htm)
@@ -328,6 +330,8 @@
 【报名截止：8.30】[电气工程及自动化学院](https://hitee.hit.edu.cn/2025/0704/c17101a373174/page.htm)
 
 【报名截止：8.20】[计算学部](https://computing.hit.edu.cn/2025/0702/c11271a373058/page.htm)
+
+【报名截止：8.14】[苏州研究院](https://sri.hit.edu.cn/2025/0808/c17245a376222/page.htm)
 
 ~~【报名截止：7.13】[郑州研究院院](https://zri.hit.edu.cn/2025/0620/c13996a372501/page.htm)~~
 
@@ -923,6 +927,8 @@
 
 ## 中国科学院
 
+【报名截止：N/A】[云南天文台](https://ynao.cas.cn/yjsjy/jydt/zs/202507/t20250723_7894728.html)
+
 【报名截止：N/A】[软件研究所基础软件验证研究室](https://versys.ios.ac.cn/blog/studentapply/)
 
 【报名截止：N/A】[空天信息创新研究院网络信息体系技术重点实验室（新二部）](https://mp.weixin.qq.com/s/qcziov9J21WSh6JbrLBuQA)
@@ -940,6 +946,8 @@
 【报名截止：N/A】[上海硅酸盐研究所](https://mp.weixin.qq.com/s/f46H25UE2T5OZcPTx6l3Yw)
 
 【报名截止：9.18】[上海技术物理研究所](https://sitp.cas.cn/yjs/zsxx/ssszs/202507/t20250704_7880143.html)
+
+【报名截止：9.10】[成都计算所](http://www.casit.ac.cn/tongzhi/308.html)
 
 【报名截止：8.18】[自动化研究所](https://ia.cas.cn/yjsjy/zs/sszs/202507/t20250731_7899790.html)
 
@@ -1156,6 +1164,8 @@
 ## 南方科技大学
 
 【报名截止：8.31】[计算机科学与工程系](https://cse.sustech.edu.cn/cn/news/view/id/1111)
+
+【报名截止：8.31】[深港微电子学院](https://sme.sustech.edu.cn/index/news/neiye/id/820.html)
 
 【报名截止：8.28】[机械与能源工程系](https://mp.weixin.qq.com/s/NIDx-ZbQ-hTIogSZorAK_w)
 
