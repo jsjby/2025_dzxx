@@ -99,6 +99,8 @@
 
 ## 上海交通大学
 
+【报名截止：N/A】[医工交叉平台](https://www.gs.sjtu.edu.cn/post/detail/Z3MzMjk0)
+
 【报名截止：N/A】[电子信息与电气工程学院感知科学与工程学院智能感知与控制研究所 ](https://mp.weixin.qq.com/s/Q5NMXQLpc6vXwQM4neJI-g)
 
 【报名截止：N/A】[人工智能与微结构实验室 ](https://mp.weixin.qq.com/s/oGoMc1WJAaLqChqgiLXitA)
@@ -406,6 +408,8 @@
  ~~【报名截止：7.5 10：00】[财政金融学院-（专业学位硕士项目）](http://sf.ruc.edu.cn/sylm/gg_sy/zsgg/b7c3db7e90ea47f59430348f2b9e825d.htm)~~
 
 ## 北京航空航天大学
+
+【报名截止：8.18 12：00】[Colab实验室](https://mp.weixin.qq.com/s/MLLmDiIlXk-V-8ppQVBrPA?scene=1&click_id=1)
 
 ~~【报名截止：7.21 15：00】[交通科学与工程学院飞行器适航工程系](https://transportation.buaa.edu.cn/info/1072/7638.htm)~~
 
@@ -1360,6 +1364,10 @@
 【报名截止：8.18】[国际医药商学院](https://sxy.cpu.edu.cn/70/ab/c8793a225451/page.htm)
 
 【报名截止：8.18 17：00】[生物药物学院](https://swywxy.cpu.edu.cn/70/dc/c9879a225500/page.htm)
+
+## 杭州电子科技大学
+
+【报名截止：9.22】[杭州电子科技大学](https://grs.hdu.edu.cn/2024/0913/c13785a270374/page.htm)
 
 ## 上海财经大学
 
