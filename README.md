@@ -1181,6 +1181,8 @@
 
 ## 南方科技大学
 
+【报名截止：8.31】[生物医学工程系](https://bme.sustech.edu.cn/education/information/)
+
 【报名截止：8.31】[计算机科学与工程系](https://cse.sustech.edu.cn/cn/news/view/id/1111)
 
 【报名截止：8.31】[深港微电子学院](https://sme.sustech.edu.cn/index/news/neiye/id/820.html)
@@ -1388,6 +1390,8 @@
 ## 上海大学
 
 【报名截止：N/A】[无人艇工程研究院](https://jhai.shu.edu.cn/info/1042/1757.htm)
+
+【报名截止：8.20】[微电子学院](https://sme.shu.edu.cn/info/1030/6062.htm)
 
 ~~【报名截止：7.1 17：00】[通信与信息工程学院](https://scie.shu.edu.cn/info/1065/44655.htm)~~
 
