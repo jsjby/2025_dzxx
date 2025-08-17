@@ -479,6 +479,8 @@
 
 【报名截止：8.31】[物理科学学院](https://physics.nankai.edu.cn/2025/0708/c548a575024/page.htm)
 
+【报名截止：8.25 17：00】[商学院](https://bs.nankai.edu.cn/2025/0816/c9477a576217/page.htm)
+
 ~~【报名截止：8.15】[智能光子研究院](https://mp.weixin.qq.com/s/1rOtJd9wuJpHNbhRuL1EjQ)~~
 
 ~~【报名截止：8.15】[电子信息与光学工程学院现代光学研究所、智能光子研究院](https://mp.weixin.qq.com/s/9Wssti4UKjrSoKNx9p8CJw)~~
@@ -510,6 +512,8 @@
 【报名截止：N/A】[人工智能研究院-八月底九月初](https://iai.xmu.edu.cn/info/1120/5335.htm)
 
 【报名截止：9.7】[信息学院（特色化示范性软件学院）](https://informatics.xmu.edu.cn/info/1050/47240.htm)
+
+【报名截止：9.7】[人工智能研究院](https://iai.xmu.edu.cn/info/1120/5355.htm)
 
 【报名截止：9.5】[能源学院](https://energy.xmu.edu.cn/info/1082/17279.htm)
 
@@ -675,7 +679,7 @@
 
 【报名截止：8.31】[航空航天学院](https://www.iaa.uestc.edu.cn/info/1143/6375.htm)
 
-【报名截止：8.17】[集成电路科学与工程学院（示范性微电子学院）](https://icse.uestc.edu.cn/info/1057/6806.htm)
+~~【报名截止：8.17】[集成电路科学与工程学院（示范性微电子学院）](https://icse.uestc.edu.cn/info/1057/6806.htm)~~
 
 ~~【报名截止：7.8】[（深圳）高等研究院](https://sias.uestc.edu.cn/info/1235/5741.htm)~~
 
@@ -1193,6 +1197,8 @@
 
 ## 南方科技大学
 
+【报名截止：9.1 9：00】[创新创业学院](http://ie-school.sustech.edu.cn/page/content?id=690)
+
 【报名截止：8.31】[生物医学工程系](https://bme.sustech.edu.cn/education/information/)
 
 【报名截止：8.31】[计算机科学与工程系](https://cse.sustech.edu.cn/cn/news/view/id/1111)
@@ -1341,6 +1347,8 @@
 
 ## 中国人民解放军火箭军工程大学
 
+【报名截止：8.30 12：00】[火箭军工程大学](https://mp.weixin.qq.com/s/XCqa11_TkmKwwYnrmSJqAw?scene=1&click_id=9)
+
 ~~【报名截止：7.30 12：00】[火箭军工程大学](https://mp.weixin.qq.com/s/DV6mu92s0TY4p2chYlpnyA)~~
 
 ## 中国矿业大学
@@ -1441,7 +1449,7 @@
 
 > 【报名截止：9.21】[大连海事大学招生信息](https://yz.shmtu.edu.cn/2025/0708/c8927a245262/page.htm)
 
-【报名截止：8.10 17：00】[船舶电气工程学院](https://grs.dlmu.edu.cn/info/1139/23591.htm)
+~~【报名截止：8.10 17：00】[船舶电气工程学院](https://grs.dlmu.edu.cn/info/1139/23591.htm)~~
 
 ~~【报名截止：7.26 8：00】[信息科学技术学院](https://ist.dlmu.edu.cn/info/1068/7358.htm)~~
 
@@ -1545,6 +1553,8 @@
 
 【报名截止：N/A】[能源与电气工程学院](https://ndxy.chd.edu.cn/info/1068/2996.htm)
 
+【报名截止：N/A】[汽车学院-8月11日报名](https://mp.weixin.qq.com/s/M7a1A2J5rPsWYrSAy7uprg?scene=1&click_id=4)
+
 ## 武汉体育学院
 
 ~~【报名截止：7.30】[新闻传播学院](https://mp.weixin.qq.com/s/fF8YkF2hG6WrSJV4JqtX4Q)~~
@@ -1612,6 +1622,8 @@
 ~~【报名截止：6.20 12：00】[中国工程物理研究院](https://zsxx.gscaep.ac.cn/enrollment/detail/1955)~~
 
 ## 中国航天科工集团
+
+【报名截止：8.22 17：00】[第二研究院](https://mp.weixin.qq.com/s/nPc7yDNdKgtURRp32JsciA)
 
 ~~【报名截止：7.4 17：00】[第二研究院](https://mp.weixin.qq.com/s/-mmGj4Fsi5En6-3oA79wxg)~~
 
