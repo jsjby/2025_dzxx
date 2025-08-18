@@ -479,6 +479,8 @@
 
 【报名截止：8.31】[物理科学学院](https://physics.nankai.edu.cn/2025/0708/c548a575024/page.htm)
 
+【报名截止：8.30 12：00】[人工智能学院](https://ai.nankai.edu.cn/info/1024/6309.htm)
+
 【报名截止：8.25 17：00】[商学院](https://bs.nankai.edu.cn/2025/0816/c9477a576217/page.htm)
 
 ~~【报名截止：8.15】[智能光子研究院](https://mp.weixin.qq.com/s/1rOtJd9wuJpHNbhRuL1EjQ)~~
@@ -851,6 +853,8 @@
 
 【报名截止：N/A】[国家卓越工程师学院](https://ngcee.hnu.edu.cn/info/1083/3067.htm)
 
+【报名截止：N/A】[半导体学院（集成电路学院）](https://sic.hnu.edu.cn/info/1115/2157.htm)
+
 【报名截止：N/A】[人工智能与机器人学院](http://robotics.hnu.edu.cn/info/1035/3109.htm)
 
 ## 山东大学
@@ -974,6 +978,8 @@
 【报名截止：N/A】[软件所中文信息处理实验室](https://mp.weixin.qq.com/s/Ly5wTU-VpHvzjKOywgJ2AA)
 
 【报名截止：N/A】[上海硅酸盐研究所](https://mp.weixin.qq.com/s/f46H25UE2T5OZcPTx6l3Yw)
+
+【报名截止：9.26】[上海应用物理研究所](https://www.sinap.cas.cn/yjsjynew/zsjz/sszs_177904/202508/t20250818_7906179.html)
 
 【报名截止：9.18】[上海技术物理研究所](https://sitp.cas.cn/yjs/zsxx/ssszs/202507/t20250704_7880143.html)
 
