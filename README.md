@@ -161,7 +161,11 @@
 
 【报名截止：9.10 16：00】[集成电路与微纳电子创新学院](https://sme.fudan.edu.cn/5b/37/c29363a744247/page.htm)
 
+【报名截止：9.10 16：00】[智能医学研究院](https://imi.fudan.edu.cn/info/1018/2713.htm)
+
 【报名截止：9.10 16：00】[智能机器人与先进制造创新学院](https://ciram.fudan.edu.cn/5c/e9/c48843a744681/page.htm)
+
+【报名截止：9.10 16：00】[智能材料与未来能源创新学院](https://icome.fudan.edu.cn/5c/93/c49262a744595/page.htm)
 
 【报名截止：9.10 16：00】[未来信息创新学院](http://www.it.fudan.edu.cn/Data/View/4900)
 
@@ -721,6 +725,10 @@
 
 ## 中山大学
 
+【报名截止：9.9】[系统科学与工程学院](https://ssse.sysu.edu.cn/article/1375)
+
+【报名截止：9.9 17：00】[人工智能学院](https://sai.sysu.edu.cn/article/608)
+
 【报名截止：9.2】[微电子科学与技术学院](https://mst.sysu.edu.cn/article/1250)
 
 【报名截止：8.31】[网络空间安全学院](https://scst.sysu.edu.cn/news/news02/1419513.htm)
@@ -849,7 +857,7 @@
 
 ## 东北大学
 
-> [东北大学秦皇岛分校招生信息](https://graduate.neuq.edu.cn/info/1099/5446.htm)
+> [东北大学秦皇岛分校招生信息](https://graduate.neuq.edu.cn/info/1099/5446.htm)|[东北大学推免招生信息](http://yz.neu.edu.cn/2025/0827/c5932a290512/pagem.htm)
 
 【报名截止：N/A】[计算机软件国家工程中心智能医疗团队](https://mp.weixin.qq.com/s/JljQs830ipcv26vNrOPs7w?scene=1&click_id=6)
 
@@ -876,6 +884,8 @@
 ## 山东大学
 
 >【报名截止：N/A】[山东大学推免招生信息](https://www.yz.sdu.edu.cn/info/1022/1225.htm)
+
+【报名截止：9.18 17:00】[电气工程学院](https://www.ee.sdu.edu.cn/info/1005/15095.htm)
 
 ~~【报名截止：7.7】[计算机科学与技术学院/人工智能学院](https://www.cs.sdu.edu.cn/info/1068/6585.htm)~~
 
@@ -1000,6 +1010,8 @@
 【报名截止：N/A】[软件所中文信息处理实验室](https://mp.weixin.qq.com/s/Ly5wTU-VpHvzjKOywgJ2AA)
 
 【报名截止：N/A】[上海硅酸盐研究所](https://mp.weixin.qq.com/s/f46H25UE2T5OZcPTx6l3Yw)
+
+【报名截止：10.8】[新疆理化技术研究所](https://xjipc.cas.cn/yjs/zs/sszs/202508/t20250825_7911759.html)
 
 【报名截止：9.26】[上海应用物理研究所](https://www.sinap.cas.cn/yjsjynew/zsjz/sszs_177904/202508/t20250818_7906179.html)
 
@@ -1159,8 +1171,6 @@
 
 【报名截止：9.25】[物理学院](https://phy.xidian.edu.cn/info/1012/8263.htm)
 
-【报名截止：9.24】[人工智能学院](https://sai.xidian.edu.cn/info/1106/12942.htm)
-
 【报名截止：9.20 00：00】[生命科学技术学院](https://life.xidian.edu.cn/info/1048/16091.htm)
 
 【报名截止：9.19】[空间科学与技术学院](https://sast.xidian.edu.cn/info/1014/13647.htm)
@@ -1170,6 +1180,8 @@
 【报名截止：9.19 12：00】[广研院-卓越工程师学院粤港澳大湾区基地](https://gzyjy.xidian.edu.cn/info/1009/19512.htm)
 
 【报名截止：9.19 12：00】[杭研院-卓越工程师学院长三角基地](https://hz.xidian.edu.cn/info/1009/20144.htm)
+
+【报名截止：9.18 17：00】[人工智能学院-更改报名时间](https://sai.xidian.edu.cn/info/1106/12942.htm)
 
 【报名截止：9.15】[集成电路学部](https://sme.xidian.edu.cn/m/view.php?aid=3121)
 
@@ -1325,6 +1337,8 @@
 
 ## 苏州大学
 
+【报名截止：N/A】[未来科学与工程学院](https://future.suda.edu.cn/46/53/c30836a673363/page.htm)
+
 【报名截止：9.14】[电子信息学院](https://dzxx.suda.edu.cn/3e/86/c8244a671366/page.htm)
 
 【报名截止：9.3】[计算机科学和技术学院（软件学院）-第二批](https://scst.suda.edu.cn/33/30/c29557a668464/page.htm)
@@ -1418,6 +1432,8 @@
 ~~【报名截止：8.10】[理学院](https://mp.weixin.qq.com/s/L2aWIRI2zVq308Fu5n0J1w)~~
 
 ## 中国地质大学
+
+> [中国地质大学招生信息](https://yz.cug.edu.cn/page/detail/PVKZRL/697/63577)
 
 ~~【报名截止：7.3】[（北京）数理学院 ](https://ss.cugb.edu.cn/c/2025-06-17/828661.shtml)~~
 
@@ -1597,6 +1613,8 @@
 
 ## 暨南大学
 
+> 【报名截止：9.14】[暨南大学招生信息-更改报名时间](https://yz.jnu.edu.cn/2025/0721/c33059a840936/page.htm)
+
 ~~【报名截止：6.30】[信息科学技术学院](https://xxxy.jnu.edu.cn/2025/0617/c27469a838563/page.htm)~~
 
 ## 合肥工业大学
@@ -1668,6 +1686,10 @@
 ## 海南医科大学
 
 【报名截止：8.26】[智能医学与技术学院](https://www.muhn.edu.cn/xxjsb/info/1037/6105.htm)
+
+## 华中师范大学
+
+> 【报名截止：9.14】[华中师范大学招生信息](https://graduate.neuq.edu.cn/info/1099/5446.htm)
 
 ## 首都体育学院
 
