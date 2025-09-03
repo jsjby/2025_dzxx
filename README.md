@@ -173,6 +173,8 @@
 
 【报名截止：9.10 16：00】[集成电路与微纳电子创新学院](https://sme.fudan.edu.cn/5b/37/c29363a744247/page.htm)
 
+【报名截止：9.10 16：00】[智能复杂体系基础理论与关键技术实验室](https://iics.fudan.edu.cn/5e/89/c43157a745097/page.htm)
+
 【报名截止：9.10 16：00】[智能医学研究院](https://imi.fudan.edu.cn/info/1018/2713.htm)
 
 【报名截止：9.10 16：00】[人类表型组研究院](https://hupi.fudan.edu.cn/info/1064/5426.htm)
@@ -287,7 +289,15 @@
 
 【报名截止：9.28】[科学岛分院](https://hf.cas.cn/sbpy/yjsc/zs/sszs/202508/t20250826_7915317.html)
 
+【报名截止：9.19 12:00】[卓越工程师学院（先进技术研究院）](https://iat.ustc.edu.cn/iat/x198/20250903/7571.html)
+
 【报名截止：9.16】[宁波东方理工大学](https://mp.weixin.qq.com/s/_y8pplCy6hgSvJpf0bqxDA)
+
+【报名截止：9.15】[电子工程与信息科学系](https://eeis.ustc.edu.cn/2025/0903/c2702a698535/page.htm)
+
+【报名截止：9.15】[自动化系](https://auto.ustc.edu.cn/2025/0903/c26085a698276/page.htm)
+
+【报名截止：9.4 8:00】[纳米技术与纳米仿生学院（苏州纳米所）](http://yjsb.sinano.ac.cn/NoticeAnn/info.aspx?itemid=1592)
 
 ~~【报名截止：6.30】[国家示范性微电子学院院](https://sme.ustc.edu.cn/2025/0620/c31027a688250/page.htm)~~
 
@@ -1239,13 +1249,13 @@
 
 【报名截止：9.19】[电子工程学院](https://see.xidian.edu.cn/html/news/12493.html)
 
-【报名截止：9.19 12：00】[广研院-卓越工程师学院粤港澳大湾区基地](https://gzyjy.xidian.edu.cn/info/1009/19512.htm)
-
 【报名截止：9.19 12：00】[杭研院-卓越工程师学院长三角基地](https://hz.xidian.edu.cn/info/1009/20144.htm)
 
 【报名截止：9.18 17：00】[人工智能学院-更改报名时间](https://sai.xidian.edu.cn/info/1106/12942.htm)
 
 【报名截止：9.15】[集成电路学部](https://sme.xidian.edu.cn/m/view.php?aid=3121)
+
+【报名截止：9.15 12:00】[广研院-卓越工程师学院粤港澳大湾区基地-更改报名时间](https://gzyjy.xidian.edu.cn/info/1009/19512.htm)
 
 【报名截止：9.10 18：00】[通信工程学院](https://ste.xidian.edu.cn/info/1337/13406.htm)
 
@@ -1605,6 +1615,14 @@
 
 ~~【报名截止：7.2】[理学院](https://lxy.nwafu.edu.cn/tzggxy/7f5d324dddcb4691a1e9694ac1a7376b.htm)~~
 
+## 西南大学
+
+> [西南大学学招生信息](https://yz.swu.edu.cn/info/1017/3341.htm)|[西南大学学招生信息](https://yz.swu.edu.cn/info/1005/3351.htm)
+
+【报名截止：9.16 17：00】[人工智能学院](https://ai.swu.edu.cn/info/1109/3654.htm)
+
+【报名截止：9.14 17：00】[电子信息工程学院](https://ceie.swu.edu.cn/info/1058/5744.htm)
+
 ## 大连海事大学
 
 > 【报名截止：9.21】[大连海事大学招生信息](https://yz.shmtu.edu.cn/2025/0708/c8927a245262/page.htm)
@@ -1818,6 +1836,10 @@
 ~~【报名截止：8.22 17：00】[第二研究院](https://mp.weixin.qq.com/s/nPc7yDNdKgtURRp32JsciA)~~
 
 ~~【报名截止：7.4 17：00】[第二研究院](https://mp.weixin.qq.com/s/-mmGj4Fsi5En6-3oA79wxg)~~
+
+## 中国空间技术研究院
+
+【报名截止：N/A】[供应链中心](https://mp.weixin.qq.com/s/YOH291Erxp3QaIL6OLTFwQ)
 
 ## 广州国家实验室
 
