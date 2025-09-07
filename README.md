@@ -427,6 +427,8 @@
 
 ## 西安交通大学
 
+>【报名截止：9.15】[西安交通大学推免招生](https://mp.weixin.qq.com/s/8cz10assaB3USWYG9rBVnA)
+
 ~~【报名截止：7.20】[未来技术学院-延迟时间](https://wljsxy.xjtu.edu.cn/info/1019/2771.htm)~~
 
 ~~【报名截止：6.30】[新闻与新媒体学院-“跨越·融合·创新”学科交叉](https://xmtxy.xjtu.edu.cn/info/1054/10641.htm)~~
@@ -503,7 +505,7 @@
 
 ## 北京理工大学
 
-> 【报名截止：7.14】[北京理工大学（珠海）](https://grd.bitzh.edu.cn/zsgz/ssyjs/e21931ecc5854e2288945b34a9cc9694.htm)
+> 【报名截止：7.14】[北京理工大学（珠海）](https://grd.bitzh.edu.cn/zsgz/ssyjs/e21931ecc5854e2288945b34a9cc9694.htm)|[北京理工大学推免招生](https://grd.bit.edu.cn/zsgz/ssyjs/gzzd_ss/1f63040825294e62b5cc2889b5ef49e5.htm)
 
 【报名截止：N/A】[集成电路与电子学院信号与图像处理研究所](https://isip.bit.edu.cn/xwgg/tzgg/ea583a3fc2ed4682800f1f14e2316b28.htm)
 
@@ -704,6 +706,8 @@
 ~~【报名截止：7.8 19：00】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14508)~~
 
 ## 中南大学
+
+> [中南大学招生信息](https://yz.csu.edu.cn/info/1009/1432.htm)|> [中南大学推免招生信息](https://yz.csu.edu.cn/info/1009/1438.htm)
 
 【报名截止：N/A】[法学院-8月1日报名](https://law.csu.edu.cn/info/1040/8973.htm)
 
@@ -1039,7 +1043,7 @@
 
 ## 兰州大学
 
-> [兰州大学推免招生信息](https://yz.csu.edu.cn/info/1009/1438.htm)|【报名截止：9.20】[国优计划](https://yz.lzu.edu.cn/shuoshishengzhaosheng/tuijianmianshi/2025/0831/315461.html)
+> [兰州大学推免招生信息](https://mp.weixin.qq.com/s/Gj2sT-dNZFl9T_htx4GuUA?scene=1&click_id=8)|【报名截止：9.20】[国优计划](https://yz.lzu.edu.cn/shuoshishengzhaosheng/tuijianmianshi/2025/0831/315461.html)
 
 ~~【报名截止：6.30 18：00】[物理学院](https://mp.weixin.qq.com/s/ooFFYhNru-8kleYnjXTRyQ)~~
 
@@ -1519,6 +1523,10 @@
 
 ~~【报名截止：6.22】[伍伦贡联合研究院](hhttps://uowji.ccnu.edu.cn/info/1033/4925.htm)~~
 
+## 华中农业大学
+
+>【报名截止：9.14】[华中农业大学推免招生](https://yjs.hzau.edu.cn/info/1189/849548.htm)
+
 ## 云南大学
 
 ~~【报名截止：6.10 12:00】[天文学](http://www.swifar.ynu.edu.cn/info/1081/3544.htm)~~
@@ -1607,7 +1615,7 @@
 
 ## 中国石油大学
 
-> [中国石油大学(北京）招生信息](https://grs.cup.edu.cn/zssstzgg/91256.jhtml)
+> [中国石油大学(北京）招生信息](https://grs.cup.edu.cn/zssstzgg/91256.jhtml)|【报名截止：9.18】[中国石油大学(华东）招生信息](http://zs.gs.upc.edu.cn/2025/0905/c10709a470112/page.htm)
 
 【报名截止：9.3】[（北京）人工智能学院](https://www.cup.edu.cn/cupai/tzgg/d89506d4c98e47b087eba297909d2212.htm)
 
@@ -1765,6 +1773,14 @@
 
 ~~【报名截止：6.15】[复杂性科学研究院](https://cs.haut.edu.cn/info/1421/7844.htm)~~
 
+## 河北工业大学
+
+>[河北工业大学推免招生](https://yjs.hebut.edu.cn/zsgz/zzsszszl/tzgg6/dc18a7e1cf9c4a37a6b0d7f7452f451d.htm)
+
+## 江西农业大学
+
+>[江西农业大学推免招生](https://yzb.jxau.edu.cn/info/1021/3121.htm)
+
 ## 深圳大学
 
 > [深圳大学招生信息](https://yz.szu.edu.cn/info/1041/13250.htm)|[深圳大学推免直博信息](https://yz.szu.edu.cn/info/1061/13416.htm)|[深圳大学推免信息](https://yz.szu.edu.cn/info/1041/13406.htm)
@@ -1914,6 +1930,10 @@
 ## 首都体育学院
 
 ~~【报名截止：6.30 12:00】[人工智能研究院](https://mp.weixin.qq.com/s/727ANj4yMqKZtaiVMgZ_3Q)~~
+
+## 中科工业人工智能研究院
+
+【报名截止：9.14 17:00】[中科工业人工智能研究院](https://mp.weixin.qq.com/s/XG-nYvdelOOskcpPCcoS6w)
 
 ## 中国医学科学院 
 
