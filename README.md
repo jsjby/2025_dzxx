@@ -309,7 +309,7 @@
 
 【报名截止：9.8 8：00】[纳米技术与纳米仿生学院（苏州纳米所）](http://yjsb.sinano.ac.cn/NoticeAnn/info.aspx?itemid=1594)
 
-【报名截止：9.4 8:00】[纳米技术与纳米仿生学院（苏州纳米所）集成电路专项](http://yjsb.sinano.ac.cn/NoticeAnn/info.aspx?itemid=1592)
+~~【报名截止：9.4 8:00】[纳米技术与纳米仿生学院（苏州纳米所）集成电路专项](http://yjsb.sinano.ac.cn/NoticeAnn/info.aspx?itemid=1592)~~
 
 ~~【报名截止：6.30】[国家示范性微电子学院院](https://sme.ustc.edu.cn/2025/0620/c31027a688250/page.htm)~~
 
@@ -383,11 +383,11 @@
 
 【报名截止：9.10】[航天学院-光学工程学科](https://sa.hit.edu.cn/2025/0708/c6582a373316/page.htm)
 
-【报名截止：9.5】[（威海）理学院光电系](https://ss.hitwh.edu.cn/2025/0708/c593a202153/page.htm)
+~~【报名截止：9.5】[（威海）理学院光电系](https://ss.hitwh.edu.cn/2025/0708/c593a202153/page.htm)~~
 
-【报名截止：9.5】[（深圳）集成电路学院](http://ic.hitsz.edu.cn/info/1032/2556.htm)
+~~【报名截止：9.5】[（深圳）集成电路学院](http://ic.hitsz.edu.cn/info/1032/2556.htm)~~
 
-【报名截止：9.5 18：00】[交通科学与工程学院](https://jtxy.hit.edu.cn/2025/0703/c6085a373120/page.htm)
+~~【报名截止：9.5 18：00】[交通科学与工程学院](https://jtxy.hit.edu.cn/2025/0703/c6085a373120/page.htm)~~
 
 ~~【报名截止：9.3】[（深圳）空天科技学院](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2881)~~
 
@@ -591,9 +591,9 @@
 
 【报名截止：9.7】[人工智能研究院](https://iai.xmu.edu.cn/info/1120/5355.htm)
 
-【报名截止：9.5】[能源学院](https://energy.xmu.edu.cn/info/1082/17279.htm)
+~~【报名截止：9.5】[能源学院](https://energy.xmu.edu.cn/info/1082/17279.htm)~~
 
-【报名截止：9.5 17：30】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11420.htm)
+~~【报名截止：9.5 17：30】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11420.htm)~~
 
 ~~【报名截止：8.30】[柔性电子（未来技术）研究院](https://ife.xmu.edu.cn/info/1341/5962.htm)~~
 
@@ -647,9 +647,9 @@
 
 > [东南大学招生信息](https://yzb.seu.edu.cn/2025/0625/c6676a534395/page.htm)|[东南大学部分学院招生信息](https://yzb.seu.edu.cn/2025/0901/c6676a537966/page.htm)|【报名截止：9.8 10：00】[推免专项报名](https://yzb.seu.edu.cn/2025/0902/c6676a538073/page.htm)
 
-【报名截止：9.4 12：00】[土木工程学院](https://civil.seu.edu.cn/2025/0830/c19887a537788/page.htm)
+~~【报名截止：9.4 12：00】[土木工程学院](https://civil.seu.edu.cn/2025/0830/c19887a537788/page.htm)~~
 
-【报名截止：9.4 12：00】[材料科学与工程学院](https://smse.seu.edu.cn/2025/0901/c54244a537944/page.htm)
+~~【报名截止：9.4 12：00】[材料科学与工程学院](https://smse.seu.edu.cn/2025/0901/c54244a537944/page.htm)~~
 
 ~~【报名截止：8.11 12：00】[电子科学与工程学院](https://electronic.seu.edu.cn/2025/0630/c11484a534664/page.htm)~~
 
@@ -829,7 +829,7 @@
 
 【报名截止：9.9 17：00】[人工智能学院](https://sai.sysu.edu.cn/article/608)
 
-【报名截止：9.2】[微电子科学与技术学院](https://mst.sysu.edu.cn/article/1250)
+~~【报名截止：9.2】[微电子科学与技术学院](https://mst.sysu.edu.cn/article/1250)~~
 
 ~~【报名截止：8.31】[网络空间安全学院](https://scst.sysu.edu.cn/news/news02/1419513.htm)~~
 
@@ -1177,7 +1177,7 @@
 
 【报名截止：9.10】[上海天文台](http://www.shao.ac.cn/yjs/zsxx/202509/t20250901_7950411.html)
 
-【报名截止：9.4 12：00】[计算所](https://www.ict.ac.cn/yjsjy/zsxx/sszs/202508/t20250829_7946055.html)
+~~【报名截止：9.4 12：00】[计算所](https://www.ict.ac.cn/yjsjy/zsxx/sszs/202508/t20250829_7946055.html)~~
 
 ~~【报名截止：8.18】[自动化研究所](https://ia.cas.cn/yjsjy/zs/sszs/202507/t20250731_7899790.html)~~
 
