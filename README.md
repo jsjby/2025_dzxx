@@ -477,6 +477,8 @@
 
 【报名截止：9.15】[国优计划](https://yz.xjtu.edu.cn/info/1086/4262.htm)
 
+【报名截止：9.15】[人工智能与机器人研究所暨人工智能学院](http://www.aiar.xjtu.edu.cn/info/1028/3834.htm)
+
 【报名截止：9.15】[未来技术学院](https://wljsxy.xjtu.edu.cn/info/1019/2866.htm)
 
 【报名截止：9.15】[电气工程学院](https://ee.xjtu.edu.cn/info/1383/14322.htm)
@@ -545,7 +547,11 @@
 
 【报名截止：9.18 12：00】[北航可靠性与系统工程学院](https://rse.buaa.edu.cn/info/1307/4581.htm)
 
+【报名截止：9.16】[无人系统研究院-延长时间](https://wrj.buaa.edu.cn/info/1008/2679.htm)
+
 【报名截止：9.16 23：00】[机械工程及自动化学院](https://physics.buaa.edu.cn/info/1252/4506.htm)
+
+【报名截止：9.16 12：00】[集成电路科学与工程学院](https://mp.weixin.qq.com/s/SIg17p4pS443AG7-CuZANw)
 
 【报名截止：9.16 12：00】[仪器科学与光电工程学院](https://yqgdxy.buaa.edu.cn/info/1053/6805.htm)
 
@@ -556,6 +562,8 @@
 【报名截止：9.16 10:00】[宇航学院](http://www.sa.buaa.edu.cn/info/1026/11504.htm)
 
 【报名截止：9.16 9：00】[杭州国际创新研究院](https://h3i.buaa.edu.cn/info/1354/3856.htm)
+
+【报名截止：9.15 18：00】[高等理工学院](https://hc.buaa.edu.cn/info/1182/4729.htm)
 
 【报名截止：9.15 18：00】[无人系统研究院](https://wrj.buaa.edu.cn/info/1008/2659.htm)
 
@@ -829,6 +837,8 @@
 
 > [国防科技大学招生信息](http://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14495)|[国防科技大学招生人数](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14513)
 
+【报名截止：9.16】[电子对抗学院第二批](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14638)
+
 【报名截止：9.14】[智能科学学院第二批](http://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14625)
 
 ~~【报名截止：9.13 12：00】[理学院第二批](http://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14634)~~
@@ -947,13 +957,17 @@
 
 ## 电子科技大学
 
-> [电子科技大学夏令营招生信息](https://yz.uestc.edu.cn/info/1081/5527.htm)|[电子科技大学推免信息](https://yz.uestc.edu.cn/info/1081/5575.htm)
+> [电子科技大学夏令营招生信息](https://yz.uestc.edu.cn/info/1081/5527.htm)|[电子科技大学推免信息](https://yz.uestc.edu.cn/info/1081/5575.htm)|[电子科技大学推免信息](https://yz.uestc.edu.cn/info/1081/5575.htm)
+
+【报名截止：9.16 17：00】[信息与通信工程学院](https://www.sice.uestc.edu.cn/info/1142/15656.htm)
 
 【报名截止：9.16 12：00】[资源与环境学院](https://www.sre.uestc.edu.cn/info/1063/10079.htm)
 
 【报名截止：9.16 9:00】[光电科学与工程学院](https://sose.uestc.edu.cn/info/1071/10542.htm)
 
 【报名截止：9.16 9:00】[集成电路科学与工程学院](https://icse.uestc.edu.cn/info/1057/6962.htm)
+
+【报名截止：9.15 20：00】[（深圳）高等研究院](https://mp.weixin.qq.com/s/iR90rDlnuJrJbxUp-Th3TQ)
 
 【报名截止：9.15 12:00】[物理学院](https://www.sp.uestc.edu.cn/info/1054/2842.htm)
 
@@ -1062,6 +1076,8 @@
 >[华中科技大学推免各学院招生信息](https://gszs.hust.edu.cn/info/1106/4010.htm)|[国家优秀中小学教师培养计划](https://gszs.hust.edu.cn/info/1106/4013.htm)
 
 【报名截止：9.17 20：00】[电子信息与通信学院](https://gszs.hust.edu.cn/info/1106/4010.htm)
+
+【报名截止：9.16 17：00】[人工智能与自动化学院](https://gszs.hust.edu.cn/info/1106/4010.htm)
 
 【报名截止：9.15 14：00】[电气与电子工程学院](https://gszs.hust.edu.cn/info/1106/4010.htm)
 
@@ -1221,6 +1237,10 @@
 
 【报名截止：9.19】[国优计划](https://edu.hnu.edu.cn/info/1099/5807.htm)
 
+【报名截止：9.17】[国家卓越工程师学院-国家卓工学院单独招生计划](https://ngcee.hnu.edu.cn/info/1056/3441.htm)
+
+【报名截止：9.16 12：00】[国家卓越工程师学院-工程硕博士培养改革专项计划](https://ngcee.hnu.edu.cn/info/1056/3441.htm)
+
 【报名截止：9.14】[电气与信息工程学院](http://eeit.hnu.edu.cn/info/1184/10873.htm)
 
 ~~【报名截止：9.7 12：00】[物理与微电子科学学院](https://mp.weixin.qq.com/s/WmgQmd2mSArxV3DN_aImTQ?click_id=12)~~
@@ -1344,6 +1364,8 @@
 【报名截止：9.17 16：00】[杭州高等研究院分子医学院](http://hias.ucas.ac.cn/fzyxy/info/1134/1802.htm)
 
 【报名截止：9.15 18:00】[应急管理科学与工程学院](https://emse.ucas.ac.cn/index.php/zh/ezsjy/esshzs/481-2026)
+
+【报名截止：N/A】[现代产业学院-工程硕博士培养改革专项（报名时间9月中旬）](https://sie.ucas.edu.cn/index.php?m=article&a=index&cid=27&id=1309)
 
 ~~【报名截止：9.13】[前沿交叉科学学院-直博生](https://sais.ucas.ac.cn/index.php/zh/xwgs/tgzs/1369-2026)~~
 
@@ -1833,9 +1855,15 @@
 
 ## 华中师范大学
 
+> 【报名截止：9.14】[华中师范大学招生信息](https://graduate.neuq.edu.cn/info/1099/5446.htm)|[国优计划](https://gs.ccnu.edu.cn/info/1028/5143.htm)
+
 【报名截止：9.14】[工程中心](https://nercel.ccnu.edu.cn/info/1010/7613.htm)
 
 【报名截止：9.14】[人工智能教育学部心](https://foaie.ccnu.edu.cn/info/1008/9893.htm)
+
+【报名截止：9.14 18：00】[伍伦贡联合研究院](https://uowji.ccnu.edu.cn/info/1033/4985.htm)
+
+【报名截止：9.14 18：00】[教育大数据应用技术国家工程研究中心](https://nerc-ebd.ccnu.edu.cn/info/1018/3473.htm)
 
 ~~【报名截止：6.22】[伍伦贡联合研究院](hhttps://uowji.ccnu.edu.cn/info/1033/4925.htm)~~
 
@@ -1850,6 +1878,10 @@
 ## 华南师范大学
 
 >[华南师范大学推免信息](https://yz.scnu.edu.cn/a/20250911/652.html)
+
+## 华南农业大学
+
+> [华南农业大学招生信息](https://yzb.scau.edu.cn/2025/0618/c2140a411894/page.htm)|[华南农业大学招生信息](https://yzb.scau.edu.cn/2025/0912/c2136a416682/page.htm)
 
 ## 华北理工大学
 
@@ -1928,6 +1960,10 @@
 ## 中国人民解放军军事科学院
 
 【报名截止：9.12】[军事科学院](https://mp.weixin.qq.com/s/MYwiZlaAGb7AImSuQbCziA)
+
+## 中国人民解放军陆军军医大学
+
+【报名截止：9.19 12：00】[陆军军医大学](https://zs.tmmu.edu.cn/zsjy/news_show.aspx?newsid=3229&master=)
 
 ## 中国矿业大学
 
@@ -2031,6 +2067,10 @@
 
 【报名截止：N/A】[无人艇工程研究院](https://jhai.shu.edu.cn/info/1042/1757.htm)
 
+【报名截止：9.20 16：00】[微电子学院](https://sme.shu.edu.cn/info/1030/6112.htm)
+
+【报名截止：9.20 16：00】[通信学院](https://scie.shu.edu.cn/info/1065/44865.htm)
+
 ~~【报名截止：8.20】[微电子学院](https://sme.shu.edu.cn/info/1030/6062.htm)~~
 
 ~~【报名截止：7.1 17：00】[通信与信息工程学院](https://scie.shu.edu.cn/info/1065/44655.htm)~~
@@ -2065,6 +2105,8 @@
 
 【报名截止：N/A】[计算机学院](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=2a4a0ac8-75aa-4848-a278-d9c846295ade)
 
+【报名截止：9.19 20：00】[物理科学与技术学院](https://phys.swjtu.edu.cn/info/1177/23390.htm)
+
 【报名截止：9.15】[集成电路科学与工程学院](https://sic.swjtu.edu.cn/info/1321/4281.htm)
 
 ~~【报名截止：7.4】[信息科学与技术学院](https://mp.weixin.qq.com/s/qQRNGS_ZJ6HXBFMfJzUHKA)~~
@@ -2072,6 +2114,10 @@
 ~~【报名截止：6.27】[电气工程学院](https://dqxy.swjtu.edu.cn/info/2966/227899.htm)~~
 
 ~~【报名截止：6.27 17：00】[计算机与人工智能学院](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=f5911baa-a438-4f16-a1ea-1db2bd244ca0)~~
+
+## 西南石油大学
+
+>【报名截止：9.18】[西南石油大学推免信息](https://www.swpu.edu.cn/gs/info/1088/5400.htm)
 
 ## 西北农林科技大学
 
@@ -2267,9 +2313,19 @@
 
 ~~【报名截止：7.4 12：00】[材料科学与工程学院](https://mse.hfut.edu.cn/info/1046/6835.htm)~~
 
+## 安徽工业大学
+
+>[安徽工业大学推免信息](https://graduate.ahut.edu.cn/info/1218/8786.htm)
+
+【报名截止：N/A】[微电子与数据科学学院](https://smed.ahut.edu.cn/info/1022/3746.htm)
+
 ## 江南大学
 
 > 【报名截止：7.3】[江南大学招生信息](https://yz.jiangnan.edu.cn/info/1012/3635.htm)|[工程硕博士培养改革专项](https://chem.jiangnan.edu.cn/info/1129/9334.htm)|【报名截止：9.22】[江南大学招生信息](https://yz.jiangnan.edu.cn/info/1012/3674.htm)
+
+【报名截止：9.22】[人工智能与计算机学院（软件学院）](https://ai.jiangnan.edu.cn/info/1055/4435.htm)
+
+【报名截止：9.19】[物联网工程学院](https://iot.jiangnan.edu.cn/info/1126/4472.htm)
 
 ~~【报名截止：9.10 17：00】[卓越工程师学院-工程硕博士](https://giee.jiangnan.edu.cn/info/1004/1261.htm)~~
 
