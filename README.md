@@ -339,6 +339,8 @@
 
 【报名截止：N/A】[稀土学院（赣江创新院）](http://www.gia.cas.cn/rcjy/zxgg/202509/t20250902_7957786.html)
 
+【报名截止：N/A】[微电子学院-推免](https://sme.ustc.edu.cn/2025/0915/c31027a700401/page.htm)
+
 【报名截止：9.28】[科学岛分院](https://hf.cas.cn/sbpy/yjsc/zs/sszs/202508/t20250826_7915317.html)
 
 【报名截止：9.19 12:00】[卓越工程师学院（先进技术研究院）](https://iat.ustc.edu.cn/iat/x198/20250903/7571.html)
@@ -2025,6 +2027,8 @@
 
 > [中国地质大学招生信息](https://yz.cug.edu.cn/page/detail/PVKZRL/697/63577)
 
+【报名截止：9.19 12：00】[(武汉)自动化学院](https://au.cug.edu.cn/info/1028/12084.htm)
+
 ~~【报名截止：9.15 14：00】[（北京）人工智能学院](https://bm.cugb.edu.cn/yjsyzsb/c/2025-09-09/831681.shtml)~~
 
 ~~【报名截止：7.3】[（北京）数理学院 ](https://ss.cugb.edu.cn/c/2025-06-17/828661.shtml)~~
@@ -2177,6 +2181,10 @@
 
 ~~【报名截止：9.14 17：00】[电子信息工程学院](https://ceie.swu.edu.cn/info/1058/5744.htm)~~
 
+## 西南民族大学
+
+【报名截止：N/A】[计算机与人工智能学院](https://jkxy.swun.edu.cn/info/1095/4501.htm)
+
 ## 大连海事大学
 
 > 【报名截止：9.21】[大连海事大学招生信息](https://yz.shmtu.edu.cn/2025/0708/c8927a245262/page.htm)
@@ -2269,9 +2277,17 @@
 
 >[武汉理工大学推免信息](http://gd.whut.edu.cn/zs/tzgg/202509/t20250914_618288.shtml)
 
+【报名截止：N/A】[自动化学院](http://sa.whut.edu.cn/yjspy/zsxx/202509/t20250916_618388.shtml)
+
+【报名截止：9.21】[机电工程学院](http://smee.whut.edu.cn/tzgg/yggg/202509/t20250916_1349192.shtml)
+
 【报名截止：9.17 17：00】[计算机与人工智能学院](http://cst.whut.edu.cn/yjsjy/zsxx/202509/t20250915_1349104.shtml)
 
 【报名截止：9.17 12：00】[国家卓越工程师学院](https://mp.weixin.qq.com/s/8z1JhqTeqJGcYUtUfQpeMw)
+
+## 四川农业大学
+
+【报名截止：N/A】[机电学院](https://jdxy.sicau.edu.cn/info/1033/3842.htm)
 
 ## 福州大学
 
@@ -2421,6 +2437,10 @@
 
 【报名截止：9.17】[人工智能与数据科学学院](https://ai.hebut.edu.cn/rcpy/yjspy/yjszsgz/2fd5b2783ca5460e82dd38c71b878e9a.htm)
 
+## 郑州大学
+
+【报名截止：9.22 17：00】[电气与信息工程学院](https://www5.zzu.edu.cn/eie/info/1055/5025.htm)
+
 ## 信息工程大学
 
 >【报名截止：9.18 23：00】[信息工程大学推免信息](https://mp.weixin.qq.com/s/-R7p00S1l2atsqDjc5KEkA?click_id=6&scene=1)
@@ -2542,6 +2562,22 @@
 ## 石河子大学
 
 【报名截止：N/A】[机械电气工程学院](https://jdxy.shzu.edu.cn/2025/0905/c9813a223275/page.htm)
+
+## 沈阳航空航天大学
+
+>【报名截止：N/A】[沈阳航空航天大学推免信息](https://yjs.sau.edu.cn/info/1021/1724.htm)
+
+【报名截止：N/A】[自动化学院](https://yjs.sau.edu.cn/info/1021/1731.htm)
+
+【报名截止：N/A】[人工智能学院](https://yjs.sau.edu.cn/info/1021/1740.htm)
+
+【报名截止：N/A】[低空经济学院](https://yjs.sau.edu.cn/info/1021/1738.htm)
+
+【报名截止：N/A】[机电工程学院](https://yjs.sau.edu.cn/info/1021/1741.htm)
+
+【报名截止：N/A】[航空发动机学院](https://yjs.sau.edu.cn/info/1021/1729.htm)
+
+【报名截止：N/A】[航空宇航学院](https://yjs.sau.edu.cn/info/1021/1728.htm)
 
 ## 华北计算机系统工程研究所
 
