@@ -211,6 +211,8 @@
 
 ## 复旦大学
 
+>[复旦大学推免信息](https://gsao.fudan.edu.cn/68/02/c15015a747522/page.htm)
+
 ~~【报名截止：9.10 16：00】[集成电路与微纳电子创新学院](https://sme.fudan.edu.cn/5b/37/c29363a744247/page.htm)~~
 
 ~~【报名截止：9.10 16：00】[智能复杂体系基础理论与关键技术实验室](https://iics.fudan.edu.cn/5e/89/c43157a745097/page.htm)~~
@@ -1039,6 +1041,8 @@
 
 >【报名截止：10.20】[中山大学推免信息](https://graduate.sysu.edu.cn/zsw/article/492)
 
+【报名截止：9.17】[智能工程学院-工程硕博士专项](https://ise.sysu.edu.cn/article/1564)
+
 ~~【报名截止：9.14】[微电子科学与技术学院](https://mst.sysu.edu.cn/article/1258)~~
 
 ~~【报名截止：9.12 12：00】[柔性电子学院](https://sofe.sysu.edu.cn/zh-hans/article/385)~~
@@ -1420,6 +1424,8 @@
 ~~【报名截止：5.30】[前沿交叉科学学院](https://mp.weixin.qq.com/s/xRw7sCbjFlflqUa7Z4r4Ug)~~
 
 ## 中国科学院
+
+【报名截止：N/A】[计算机网络信息中心-推免(少量名额)](https://cnic.cas.cn/yjsjy/zsxx/202509/t20250916_7969127.html)
 
 【报名截止：N/A】[信息工程研究所-推免](https://www.iie.ac.cn/xsjy2020/zxtz2020/202509/t20250911_7965947.html)
 
@@ -1901,6 +1907,10 @@
 
 >[华南师范大学推免信息](https://yz.scnu.edu.cn/a/20250911/652.html)
 
+【报名截止：9.19 18：00】[物理学院](https://physics.scnu.edu.cn/a/20250917/13083.html)
+
+【报名截止：9.18 14：00】[人工智能学院](http://ai.scnu.edu.cn/a/20250916/445.html)
+
 ## 华南农业大学
 
 > [华南农业大学招生信息](https://yzb.scau.edu.cn/2025/0618/c2140a411894/page.htm)|[华南农业大学招生信息](https://yzb.scau.edu.cn/2025/0912/c2136a416682/page.htm)
@@ -2311,6 +2321,8 @@
 
 【报名截止：N/A】[物理与光电工程学院-直博生](https://cpoe.szu.edu.cn/info/1154/3002.htm)
 
+【报名截止：9.22】[微纳光电子学研究院](https://mp.weixin.qq.com/s/uWNqCb1fGLCppEfSPSPkrg)
+
 【报名截止：9.17】[光明实验室](https://mp.weixin.qq.com/s/k0K-34GBsaaB5qjJQaM4zQ)
 
 【报名截止：9.17】[大湾区国际创新学院和人工智能学院](https://mp.weixin.qq.com/s/Iu2aVKksz6OvgEYMZt-BAA)
@@ -2346,6 +2358,16 @@
 ## 南京林业大学
 
 【报名截止：9.20】[南京林业大学推免招生信息](https://yz.njfu.edu.cn//tzgg/20250826/i342902.html)
+
+## 南京工业大学
+
+>[南京工业大学推免信息](https://gra.njtech.edu.cn/zsw/info/1021/1581.htm)|[南京工业大学各学院信息](https://gra.njtech.edu.cn/zsw/info/1021/1582.htm)
+
+【报名截止：N/A】[电气工程与控制科学学院](https://gra.njtech.edu.cn/zsw/info/1021/1582.htm)
+
+【报名截止：N/A】[计算机与信息工程学院（](https://gra.njtech.edu.cn/zsw/info/1021/1582.htm)
+
+【报名截止：N/A】[柔性电子（未来技术）学院](https://gra.njtech.edu.cn/zsw/info/1021/1582.htm)
 
 ## 南京财经大学
 
@@ -2444,6 +2466,12 @@
 ## 信息工程大学
 
 >【报名截止：9.18 23：00】[信息工程大学推免信息](https://mp.weixin.qq.com/s/-R7p00S1l2atsqDjc5KEkA?click_id=6&scene=1)
+
+## 杭州师范大学
+
+【报名截止：N/A】[工学院](https://eng.hznu.edu.cn/c/2025-09-17/3108583.shtml)
+
+【报名截止：N/A】[信息科学与技术学院](https://hise.hznu.edu.cn/c/2025-09-15/3107120.shtml)
 
 ## 长江大学
 
